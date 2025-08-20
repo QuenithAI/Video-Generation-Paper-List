@@ -564,6 +564,9 @@
 *   **[CVPR 2025]** ***LeviTor:*** *3D Trajectory Oriented Image-to-Video Synthesis*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_LeviTor_3D_Trajectory_Oriented_Image-to-Video_Synthesis_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/ant-research/LeviTor)
 
+*   **[ICCV 2025]** ***AnyI2V:*** *Animating Any Conditional Image with Motion Control*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.02857) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FudanCVL/AnyI2V)
+
 *   **[ICLR 2025]** ***SG-I2V:*** *Self-Guided Trajectory Control in Image-to-Video Generation*<br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uQjySppU9x)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kmcode1.github.io/Projects/SG-I2V/)
