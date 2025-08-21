@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Aug 21th, 2025)**: Add a new direction: [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation).
 - **(Aug 20th, 2025)**: Initial commit and repository structure established.
 
 </details>
@@ -50,6 +51,7 @@
   - [🖼️ Image-to-Video (I2V) Generation](#️-image-to-video-i2v-generation)
   - [✂️ Video-to-Video (V2V) Editing](#️-video-to-video-v2v-editing)
   - [🕹️ Controllable Video Generation](#️-controllable-video-generation)
+  - [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation)
 - [🗂️ Datasets](#️-datasets)
 - [🎓 About Us](#-about-us)
 - [🤝 Contributing](#-contributing)
@@ -62,6 +64,9 @@
 - [Controllable Video Generation: A Survey](http://arxiv.org/abs/2507.16869v1)
 - [Diffusion Model-Based Video Editing: A Survey](http://arxiv.org/abs/2407.07111v1)
 - [From Sora What We Can See: A Survey of Text-to-Video Generation](http://arxiv.org/abs/2405.10674v1)
+- [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428)
+- [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)
+- [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)
 
 ### <span id="t2v">🎥 Text-to-Video (T2V) Generation</span>
 <details>
@@ -1146,6 +1151,130 @@
 
 ---
 
+# <span id="audio">🗣️ Audio-Driven Video Generation</span>
+
+<details>
+<summary><h4>✨ 2025</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+
+*   **[CVPR 2025]** ***KeyFace:*** *Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2503.01715)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antonibigata.github.io/KeyFace/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/antonibigata/keyface_cvpr)
+
+*   **[CVPR 2025]** ***AudCast:*** *Audio-Driven Human Video Generation by Cascaded Diffusion Transformers*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2503.19824)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guanjz20.github.io/projects/AudCast/)
+
+*   **[CVPR 2025]** ***MoEE:*** *Mixture of Emotion Experts for Audio-Driven Portrait Animation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2501.01808)
+
+*   **[CVPR 2025]** ***Teller:*** *Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2503.18429)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://teller-avatar.github.io/)
+
+*   **[CVPR 2025]** ***INFP:*** *Audio-Driven Interactive Head Generation in Dyadic Conversations*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2412.04037)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grisoon.github.io/INFP/)
+
+*   **[ICLR 2025]** ***Hallo2:*** *Long-Duration and High-Resolution Audio-Driven Portrait Image Animation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2410.07718)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudan-generative-vision.github.io/hallo2/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fudan-generative-vision/hallo2)
+
+*   **[ICLR 2025]** ***Loopy:*** *Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2409.02634)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://loopyavataranony.github.io/)
+
+*   **[ICLR 2025]** ***CyberHost:*** *A One-stage Diffusion Framework for Audio-driven Talking Body Generation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2409.01876)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyberhost.github.io/)
+
+*   **[AAAI 2025]** ***EchoMimic:*** *Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2409.13689)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antgroup.github.io/ai/echomimic/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/antgroup/echomimic)
+    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/AntGroup/EchoMimic)
+
+*   **[AAAI 2025]** ***PointTalk:*** *Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2410.02700)
+
+
+</details>
+
+
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [Scaling Up Audio-Synchronized Visual Animation: An Efficient Training Paradigm](http://arxiv.org/abs/2508.03955v1)
+- [SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware Video Generation](http://arxiv.org/abs/2508.00782v1)
+- [OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation](http://arxiv.org/abs/2506.18866v1)
+- [InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions](http://arxiv.org/abs/2506.09984v1)
+- [AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation](http://arxiv.org/abs/2506.11144v1)
+- [Audio-Sync Video Generation with Multi-Stream Temporal Control](http://arxiv.org/abs/2506.08003v1)
+- [LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models](http://arxiv.org/abs/2506.05806v1)
+- [TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models](http://arxiv.org/abs/2506.03099v1)
+
+</details>
+
+</details>
+
+<details>
+<summary><h4>✨ 2024</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+*   **[CVPR 2024]** ***FaceTalk:*** *Audio-Driven Motion Diffusion for Neural Parametric Head Models*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2312.08459)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shivangi-aneja.github.io/projects/facetalk/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/shivangi-aneja/FaceTalk)
+
+
+*   **[ECCV 2024]** ***UniTalker:*** *Scaling up Audio-Driven 3D Facial Animation Through A Unified Model*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2408.00762)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://x-niper.github.io/unitalker/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/X-niper/UniTalker)
+
+*   **[ECCV 2024]** *Audio-Driven Talking Face Generation with Stabilized Synchronization Loss*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2307.09368)
+
+*   **[NeurIPS 2024]** ***VASA-1:*** *Lifelike Audio-Driven Talking Faces Generated in Real Time*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2404.10667)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.microsoft.com/en-us/research/project/vasa-1/)
+
+
+
+
+</details>
+
+
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation](http://arxiv.org/abs/2412.15191v2)
+- [SAVGBench: Benchmarking Spatially Aligned Audio-Video Generation](http://arxiv.org/abs/2412.13462v1)
+- [SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model](http://arxiv.org/abs/2412.03430v1)
+- [SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text](http://arxiv.org/abs/2412.15220v1)
+- [FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](http://arxiv.org/abs/2412.01064v4)
+- [Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts](http://arxiv.org/abs/2410.23836v1)
+- [A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation](http://arxiv.org/abs/2409.17550v3)
+- [DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures](http://arxiv.org/abs/2409.07649v1)
+
+</details>
+
+</details>
+
+[<small>⇧ Back to ToC</small>](#contents)
+
+
+---
+
 ## <span id="datasets">🗂️ Datasets</span>
 | Dataset Name | Year | Modalities | Task | Paper | Link |
 | :--- | :--- | :--- | :--- | :---: | :---: |
@@ -1165,7 +1294,7 @@
 | **TC-Bench** | 2024 | Text, Image, Video | Text-to-Video, Image-to-Video | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2406.08656v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/weixi-feng/tc-bench) |
 | **AnimeShooter** | 2025 | Text, Image, Video | Text-to-Video, Image-to-Video | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2506.03126v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://qiulu66.github.io/animeshooter/) |
 | **VE-Bench** | 2024 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2408.11481v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/littlespray/VE-Bench) |
-| **DAVIS-Edit** | 2024 | Text, Video, Image | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2411.11045v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://huggingface.co/datasets/AlonzoLeeeooo/DAVIS-Edit) |
+| **DAVIS-Edit** | 2024 | Text, Video, Image | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2411.11045v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/AlonzoLeeeooo/StableV2V) |
 | **VIVID-10M** | 2024 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2411.15260v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://huggingface.co/datasets/KwaiVGI/VIVID-10M) |
 | **Señorita-2M** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2502.06734v3) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/zibojia/SENORITA) |
 | **FiVE-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2503.13684v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/MinghanLi/FiVE-Bench) |
