@@ -128,6 +128,12 @@
 *   **[ICLR 2025]** ***CogVideoX:*** *Text-to-Video Diffusion Models with An Expert Transformer*<br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LQzN6TRFg9)
 
+*   **[ICLR 2025]** *Pyramidal Flow Matching for Efficient Video Generative Modeling*<br>
+    [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=66NzcRQuOq)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pyramid-flow.github.io/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jy0205/Pyramid-Flow)
+    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/pyramid-flow-miniflux)
+
 </details>
 
 
@@ -579,6 +585,12 @@
 
 *   **[ICLR 2025]** *Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation*<br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ykD8a9gJvy)
+
+*   **[ICLR 2025]** *Pyramidal Flow Matching for Efficient Video Generative Modeling*<br>
+    [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=66NzcRQuOq)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pyramid-flow.github.io/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jy0205/Pyramid-Flow)
+    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/pyramid-flow-miniflux)
 
 
 
