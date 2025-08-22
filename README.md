@@ -346,6 +346,12 @@
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://proceedings.neurips.cc/paper_files/paper/2024/file/81f19c0e9f3e06c831630ab6662fd8ea-Paper-Conference.pdf)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PR-Ryan/DEMO)
 
+*   **[ICML 2024]** ***Video-LaVIT:*** *Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization*<br>
+    [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=S9lk6dk4LL)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://video-lavit.github.io/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jy0205/LaVIT)
+    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/Video-LaVIT-v1)
+
 *   **[ICLR 2024]** ***VDT:*** *General-purpose Video Diffusion Transformers via Mask Modeling*<br>
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2305.13311.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vdt-2023.github.io/)
@@ -663,6 +669,12 @@
 
 *   **[NeurIPS 2024]** *Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/35cb54b887e7aafe74829677cce6c5c6-Abstract-Conference.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-ml/cond-image-leakage)
+
+*   **[ICML 2024]** ***Video-LaVIT:*** *Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization*<br>
+    [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=S9lk6dk4LL)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://video-lavit.github.io/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jy0205/LaVIT)
+    [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/Video-LaVIT-v1)
 
 *   **[SIGGRAPH 2024]** ***I2V-Adapter:*** *A General Image-to-Video Adapter for Diffusion Models*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1145/3641519.3657407) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KwaiVGI/I2V-Adapter)
