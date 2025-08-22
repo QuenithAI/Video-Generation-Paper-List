@@ -1299,6 +1299,7 @@
 | **Señorita-2M** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2502.06734v3) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/zibojia/SENORITA) |
 | **FiVE-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2503.13684v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/MinghanLi/FiVE-Bench) |
 | **InsViE-1M** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2503.20287v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/langmanbusi/InsViE) |
+| **SpeakerVid-5M** | 2025 | Text, Video, Audio | Audio-Driven Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2507.09862) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://dorniwang.github.io/SpeakerVid-5M/) |
 
 [<small>⇧ Back to ToC</small>](#contents)
 
