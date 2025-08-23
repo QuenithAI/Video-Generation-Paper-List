@@ -67,6 +67,7 @@
 - [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428)
 - [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)
 - [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)
+- [Video Diffusion Generation: Comprehensive Review and Open Problems](https://link.springer.com/article/10.1007/s10462-025-11331-6)
 
 ### <span id="t2v">🎥 Text-to-Video (T2V) Generation</span>
 <details>
