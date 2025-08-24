@@ -66,6 +66,7 @@
 - [Diffusion Model-Based Video Editing: A Survey](http://arxiv.org/abs/2407.07111v1)
 - [From Sora What We Can See: A Survey of Text-to-Video Generation](http://arxiv.org/abs/2405.10674v1)
 - [A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights](https://arxiv.org/abs/2407.08428)
+- [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647v1)
 - [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150)
 - [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081)
 - [Video Diffusion Generation: Comprehensive Review and Open Problems](https://link.springer.com/article/10.1007/s10462-025-11331-6)
