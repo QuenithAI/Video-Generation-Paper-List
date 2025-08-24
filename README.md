@@ -52,6 +52,7 @@
   - [✂️ Video-to-Video (V2V) Editing](#️-video-to-video-v2v-editing)
   - [🕹️ Controllable Video Generation](#️-controllable-video-generation)
   - [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation)
+  - [💃 Human Image Animation](#-human-image-animation)
 - [🗂️ Datasets](#️-datasets)
 - [🎓 About Us](#-about-us)
 - [🤝 Contributing](#-contributing)
@@ -662,9 +663,6 @@
 *   **[ECCV 2024]** *Rethinking Image-to-Video Adaptation: An Object-Centric Perspective*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72775-7_19)
 
-*   **[NeurIPS 2024]** ***HumanVid:*** *Demystifying Training Data for Camera-controllable Human Image Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/23f3a0f82d79d985b6076bc84d14f66b-Abstract-Datasets_and_Benchmarks_Track.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhenzhiwang/HumanVid)
-
 *   **[NeurIPS 2024]** ***TPC:*** *Test-time Procrustes Calibration for Diffusion-based Human Image Animation*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/d6fdc3002dda4c3cad3d595ac6fa5352-Abstract-Conference.html)
 
@@ -1174,7 +1172,6 @@
 
 [<small>⇧ Back to ToC</small>](#contents)
 
----
 
 ### <span id="audio">🗣️ Audio-Driven Video Generation</span>
 
@@ -1297,6 +1294,120 @@
 
 [<small>⇧ Back to ToC</small>](#contents)
 
+### <span id="human">💃 Human Image Animation</span>
+
+<details>
+<summary><h4>✨ 2025</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+*   **[CVPR 2025]** *X-Dyna: Expressive Dynamic Human Image Animation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2501.10021)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/X-Dyna)
+
+*   **[CVPR 2025]** *StableAnimator: High-Quality Identity-Preserving Human Image Animation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2411.17697)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://francis-rings.github.io/StableAnimator/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/StableAnimator)
+
+*   **[ICLR 2025]** *Animate-X: Universal Character Image Animation with Enhanced Motion Representation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2411.17697)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaria-academy.github.io/Animate-X/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/antgroup/animate-x)
+
+*   **[CVPR 2025]** ***Disco4D:*** *Disentangled 4D Human Generation and Animation from a Single Image*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Disco4D_Disentangled_4D_Human_Generation_and_Animation_from_a_Single_CVPR_2025_paper.html)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://disco-4d.github.io/)
+
+
+</details>
+
+
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation](http://arxiv.org/abs/2507.15064v1)
+- [HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions](http://arxiv.org/abs/2505.22977v1)
+- [MTVCrafter: 4D Motion Tokenization for Open-World Human Image Animation](http://arxiv.org/abs/2505.10238v4)
+- [TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection](http://arxiv.org/abs/2505.08437v1)
+- [AnimateAnywhere: Rouse the Background in Human Image Animation](http://arxiv.org/abs/2504.19834v1)
+- [UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer](http://arxiv.org/abs/2504.11289v1)
+- [Taming Consistency Distillation for Accelerated Human Image Animation](http://arxiv.org/abs/2504.11143v1)
+- [Multi-identity Human Image Animation with Structural Video Diffusion](http://arxiv.org/abs/2504.04126v1)
+- [DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance](http://arxiv.org/abs/2504.01724v3)
+- [DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation](http://arxiv.org/abs/2503.21246v2)
+- [EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation](http://arxiv.org/abs/2503.18552v2)
+
+</details>
+
+</details>
+
+<details>
+<summary><h4>✨ 2024</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+
+
+*   **[CVPR 2024]** *MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2405.20325)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://francis-rings.github.io/MotionFollower/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/MotionFollower)
+
+*   **[CVPR 2024]** *MotionEditor: Editing Video Motion via Content-Aware Diffusion*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_MotionEditor_Editing_Video_Motion_via_Content-Aware_Diffusion_CVPR_2024_paper.pdf)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://francis-rings.github.io/MotionEditor/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/MotionEditor)
+
+
+*   **[CVPR 2024]** ***MagicAnimate:*** *Temporally Consistent Human Image Animation using Diffusion Model*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00147)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://showlab.github.io/magicanimate/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/magic-research/magic-animate)
+
+*   **[ECCV 2024]** ***Champ:*** *Controllable and Consistent Human Image Animation with 3D Parametric Guidance*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73001-6_9)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudan-generative-vision.github.io/champ/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fudan-generative-vision/champ)
+
+*   **[NeurIPS 2024]** ***HumanVid:*** *Demystifying Training Data for Camera-controllable Human Image Animation*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/23f3a0f82d79d985b6076bc84d14f66b-Abstract-Datasets_and_Benchmarks_Track.html)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://humanvid.github.io/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhenzhiwang/HumanVid)
+
+*   **[NeurIPS 2024]** ***TPC:*** *Test-time Procrustes Calibration for Diffusion-based Human Image Animation*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/d6fdc3002dda4c3cad3d595ac6fa5352-Abstract-Conference.html)
+
+*   **[ICLR 2024]** *DisPose: Disentangling Pose Guidance for Controllable Human Image Animation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://openreview.net/forum?id=AumOa10MKG)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lihxxx.github.io/DisPose/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lihxxx/DisPose)
+
+
+</details>
+
+
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses](http://arxiv.org/abs/2412.00397v1)
+- [High Quality Human Image Animation using Regional Supervision and Motion Blur Condition](http://arxiv.org/abs/2409.19580v1)
+- [Dormant: Defending against Pose-driven Human Image Animation](http://arxiv.org/abs/2409.14424v2)
+- [TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models](http://arxiv.org/abs/2407.09012v1)
+- [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](http://arxiv.org/abs/2406.01188v1)
+- [VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation](http://arxiv.org/abs/2405.18156v1))
+
+
+</details>
+
+</details>
+
+[<small>⇧ Back to ToC</small>](#contents)
+
 
 ---
 
@@ -1310,7 +1421,6 @@
 | **HD-VG-130M** | 2023 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2305.10874.pdf) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/daooshee/HD-VG-130M) |
 | **FETV** | 2023 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://papers.nips.cc/paper_files/paper/2023/file/c481049f7410f38e788f67c171c64ad5-Paper-Datasets_and_Benchmarks.pdf) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/llyx97/FETV) |
 | **InternVid** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2307.06942) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) |
-| **Panda-70M** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2402.19479.pdf) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://snap-research.github.io/Panda-70M) |
 | **VidProM** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2403.06098.pdf) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/WangWenhao0716/VidProM) |
 | **Panda-70M** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2402.19479) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://tsaishienchen.github.io/panda-70m/) |
 | **SafeSora** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2406.14477v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/PKU-Alignment/safe-sora) |
