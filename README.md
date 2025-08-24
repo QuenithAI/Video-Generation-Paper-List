@@ -1311,14 +1311,15 @@
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://francis-rings.github.io/StableAnimator/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/StableAnimator)
 
+*   **[CVPR 2025]** ***Disco4D:*** *Disentangled 4D Human Generation and Animation from a Single Image*<br>
+    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Disco4D_Disentangled_4D_Human_Generation_and_Animation_from_a_Single_CVPR_2025_paper.html)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://disco-4d.github.io/)
+
 *   **[ICLR 2025]** *Animate-X: Universal Character Image Animation with Enhanced Motion Representation*<br>
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2411.17697)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaria-academy.github.io/Animate-X/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/antgroup/animate-x)
 
-*   **[CVPR 2025]** ***Disco4D:*** *Disentangled 4D Human Generation and Animation from a Single Image*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Disco4D_Disentangled_4D_Human_Generation_and_Animation_from_a_Single_CVPR_2025_paper.html)
-    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://disco-4d.github.io/)
 
 
 </details>
