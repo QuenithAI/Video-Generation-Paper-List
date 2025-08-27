@@ -1621,8 +1621,6 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
-</details>
-
 *   **[CVPR 2024]** ***Cache Me if You Can:*** *Accelerating Diffusion Models through Block Caching*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)
 
@@ -1643,12 +1641,14 @@
 *   **[IJCAI 2024]** ***FasterVD:*** *On Acceleration of Video Diffusion Models*<br>
     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ijcai.org/proceedings/2024/1044.pdf)
 
+</details>
+
+
+
 
 
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
-
-</details>
 
 - [Accelerating Video Diffusion Models via Distribution Matching](http://arxiv.org/abs/2412.05899v1)
 - [Adaptive Caching for Faster Video Generation with Diffusion Transformers](http://arxiv.org/abs/2411.02397v2)
@@ -1656,6 +1656,8 @@
 - [HAVANA: Hierarchical stochastic neighbor embedding for Accelerated Video ANnotAtions](http://arxiv.org/abs/2409.10641v1)
 - [AnimateDiff-Lightning: Cross-Model Diffusion Distillation](http://arxiv.org/abs/2403.12706v1)
 
+
+</details>
 
 </details>
 
