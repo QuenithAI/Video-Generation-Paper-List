@@ -144,7 +144,6 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-- [OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation](https://arxiv.org/abs/2505.20292)
 - [LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation](http://arxiv.org/abs/2508.04228v1)
 - [Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation](http://arxiv.org/abs/2508.04049v1)
 - [$\text{S}^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](http://arxiv.org/abs/2508.04016v1)
@@ -229,6 +228,7 @@
 - [LumosFlow: Motion-Guided Long Video Generation](http://arxiv.org/abs/2506.02497v1)
 - [Motion aware video generative model](http://arxiv.org/abs/2506.02244v1)
 - [Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks](http://arxiv.org/abs/2506.01758v2)
+- [OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation](https://arxiv.org/abs/2505.20292)
 - [Wan: Open and Advanced Large-Scale Video Generative Models](http://arxiv.org/abs/2503.20314v2)
 
 
@@ -1701,8 +1701,8 @@
 | **FiVE-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2503.13684v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/MinghanLi/FiVE-Bench) |
 | **InsViE-1M** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2503.20287v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/langmanbusi/InsViE) |
 | **VEU-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2504.17828) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/VEU-Benchmark/VEU-Benchmark) |
-| **SpeakerVid-5M** | 2025 | Text, Video, Audio | Audio-Driven Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2507.09862) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://dorniwang.github.io/SpeakerVid-5M/) |
 | **OpenS2V-5M** | 2025 | Text, Video, Audio | Text-to-Video, Image-to-Video, Subject-to-Video | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2505.20292) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://pku-yuangroup.github.io/OpenS2V-Nexus/) |
+| **SpeakerVid-5M** | 2025 | Text, Video, Audio | Audio-Driven Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2507.09862) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://dorniwang.github.io/SpeakerVid-5M/) |
 
 [<small>⇧ Back to ToC</small>](#contents)
 
