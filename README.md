@@ -79,10 +79,6 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
-*   **[CVPR 2025]** *Identity-Preserving Text-to-Video Generation by Frequency Decomposition*<br>
-    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2411.17440)
-    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PKU-YuanGroup/ConsisID)
-
 *   **[CVPR 2025]** *AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM*<br>
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2411.17221)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wangjiarui153/AIGV-Assessor)
