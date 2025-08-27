@@ -228,6 +228,7 @@
 - [LumosFlow: Motion-Guided Long Video Generation](http://arxiv.org/abs/2506.02497v1)
 - [Motion aware video generative model](http://arxiv.org/abs/2506.02244v1)
 - [Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks](http://arxiv.org/abs/2506.01758v2)
+- [OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation](https://arxiv.org/abs/2505.20292)
 - [Wan: Open and Advanced Large-Scale Video Generative Models](http://arxiv.org/abs/2503.20314v2)
 
 
@@ -1680,7 +1681,7 @@
 | **VidProM** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2403.06098.pdf) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/WangWenhao0716/VidProM) |
 | **Panda-70M** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2402.19479) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://tsaishienchen.github.io/panda-70m/) |
 | **SafeSora** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2406.14477v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/PKU-Alignment/safe-sora) |
-| **ChronoMagic-Bench**| 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2406.18522v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) |
+| **ChronoMagic-Pro**| 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2406.18522v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/PKU-YuanGroup/ChronoMagic-Bench) |
 | **T2V-CompBench** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2407.14505v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/KaiyueSun98/T2V-CompBench) |
 | **VidGen-1M** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2408.02629v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/SAIS-FUXI/VidGen) |
 | **PhyGenBench** | 2024 | Text, Video | Text-to-Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2410.05363v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/OpenGVLab/PhyGenBench) |
@@ -1700,6 +1701,7 @@
 | **FiVE-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2503.13684v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/MinghanLi/FiVE-Bench) |
 | **InsViE-1M** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2503.20287v2) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/langmanbusi/InsViE) |
 | **VEU-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2504.17828) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/VEU-Benchmark/VEU-Benchmark) |
+| **OpenS2V-5M** | 2025 | Text, Video, Audio | Text-to-Video, Image-to-Video, Subject-to-Video | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2505.20292) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://pku-yuangroup.github.io/OpenS2V-Nexus/) |
 | **SpeakerVid-5M** | 2025 | Text, Video, Audio | Audio-Driven Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2507.09862) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://dorniwang.github.io/SpeakerVid-5M/) |
 
 [<small>⇧ Back to ToC</small>](#contents)
