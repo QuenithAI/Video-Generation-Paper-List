@@ -144,12 +144,13 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-- [LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation](http://arxiv.org/abs/2508.04228v1)
-- [Motion is the Choreographer: Learning Latent Pose Dynamics for Seamless Sign Language Generation](http://arxiv.org/abs/2508.04049v1)
-- [$\text{S}^2$Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](http://arxiv.org/abs/2508.04016v1)
-- [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](http://arxiv.org/abs/2508.03694v1)
-- [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](http://arxiv.org/abs/2508.03334v2)
-- [V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models](http://arxiv.org/abs/2508.03254v1)
+- [LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation](https://arxiv.org/abs/2508.04228)
+[![GitHub Stars](https://img.shields.io/github/stars/kr-panghu/LayerT2V?style=social)](https://github.com/kr-panghu/LayerT2V) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://kr-panghu.github.io/LayerT2V/)
+- [S²Q-VDiT: Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation](https://arxiv.org/abs/2508.04016)
+[![GitHub Stars](https://img.shields.io/github/stars/wlfeng0509/s2q-vdit?style=social)](https://github.com/wlfeng0509/s2q-vdit)  
+- [LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation](https://arxiv.org/abs/2508.03694) [![GitHub Stars](https://img.shields.io/github/stars/vchitect/LongVie?style=social)](https://github.com/vchitect/LongVie)  
+- [Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation](https://arxiv.org/abs/2508.03334) [![GitHub Stars](https://img.shields.io/github/stars/Tele-AI/MMPL?style=social)](https://github.com/Tele-AI/MMPL) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)
+- [V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models](https://arxiv.org/abs/2508.03254) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://jiiiisoo.github.io/VIP.github.io/)
 - [QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots](http://arxiv.org/abs/2508.02512v1)
 - [PoseGuard: Pose-Guided Generation with Safety Guardrails](http://arxiv.org/abs/2508.02476v1)
 - [GV-VAD : Exploring Video Generation for Weakly-Supervised Video Anomaly Detection](http://arxiv.org/abs/2508.00312v1)
