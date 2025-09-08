@@ -308,11 +308,11 @@
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/showlab/MotionDirector)
 
 *   **[CVPR 2024]** *Hierarchical Patch-wise Diffusion Models for High-Resolution Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Skorokhodov_Hierarchical_Patch_Diffusion_Models_for_High-Resolution_Video_Generation_CVPR_2024_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Skorokhodov_Hierarchical_Patch_Diffusion_Models_for_High-Resolution_Video_Generation_CVPR_2024_paper.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/hpdm/)
 
 *   **[CVPR 2024]** ***DiffPerformer:*** *Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DiffPerformer_Iterative_Learning_of_Consistent_Latent_Guidance_for_Diffusion-based_Human_CVPR_2024_paper.pdf)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/aipixel/)
 
 *   **[CVPR 2024]** *Grid Diffusion Models for Text-to-Video Generation*<br>
@@ -325,30 +325,30 @@
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research/)
 
 *   **[ECCV 2024]** ***W.A.L.T.:*** *Photorealistic Video Generation with Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10270.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10270.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walt-video-diffusion.github.io/)
 
 *   **[ECCV 2024]** ***MoVideo:*** *Motion-Aware Video Generation with Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06030.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06030.pdf)
 
 *   **[ECCV 2024]** ***DrivingDiffusion:*** *Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10097.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10097.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drivingdiffusion.github.io/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/shalfun/DrivingDiffusion)
 
 *   **[ECCV 2024]** ***MagDiff:*** *Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02738.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02738.pdf)
 
 *   **[ECCV 2024]** ***HARIVO:*** *Harnessing Text-to-Image Models for Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kwonminki.github.io/HARIVO/)
 
 *   **[ECCV 2024]** ***MEVG:*** *Multi-event Video Generation with Text-to-Video Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06012.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kuai-lab.github.io/eccv2024mevg/)
 
 *   **[NeurIPS 2024]** ***DEMO:*** *Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://proceedings.neurips.cc/paper_files/paper/2024/file/81f19c0e9f3e06c831630ab6662fd8ea-Paper-Conference.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://proceedings.neurips.cc/paper_files/paper/2024/file/81f19c0e9f3e06c831630ab6662fd8ea-Paper-Conference.pdf)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PR-Ryan/DEMO)
 
 *   **[ICML 2024]** ***Video-LaVIT:*** *Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization*<br>
@@ -465,21 +465,21 @@
     [![GitHub](https://img.shields.io/badge/Reproduced-Code-green?style=for-the-badge&logo=github)](https://github.com/srpkdyy/VideoLDM)
 
 *   **[CVPR 2023]** ***Text2Video-Zero:*** *Text-to-image Diffusion Models are Zero-shot Video Generators*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://text2video-zero.github.io/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
     [![Demo](https://img.shields.io/badge/Hugging_Face-Demo-yellow?style=for-the-badge)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
 
 *   **[CVPR 2023]** *Video Probabilistic Diffusion Models in Projected Latent Space*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Video_Probabilistic_Diffusion_Models_in_Projected_Latent_Space_CVPR_2023_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Video_Probabilistic_Diffusion_Models_in_Projected_Latent_Space_CVPR_2023_paper.pdf)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sihyun-yu/PVDM)
 
 *   **[ICCV 2023]** ***PYOCO:*** *Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ge_Preserve_Your_Own_Correlation_A_Noise_Prior_for_Video_Diffusion_ICCV_2023_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Ge_Preserve_Your_Own_Correlation_A_Noise_Prior_for_Video_Diffusion_ICCV_2023_paper.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.nvidia.com/labs/dir/pyoco/)
 
 *   **[ICCV 2023]** ***Gen-1:*** *Structure and Content-guided Video Synthesis with Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.runwayml.com/gen1)
 
 *   **[NeurIPS 2023]** *Video Diffusion Models*<br>
@@ -487,7 +487,7 @@
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://video-diffusion.github.io/)
 
 *   **[NeurIPS 2023]** ***UniPi:*** *Learning Universal Policies via Text-Guided Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.nips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.nips.cc/paper_files/paper/2023/file/1d5b9233ad716a43be5c0d3023cb82d0-Paper-Conference.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://universal-policy.github.io/unipi/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/flow-diffusion/AVDC)
 
@@ -581,16 +581,16 @@
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2503.00948)
 
 *   **[CVPR 2025]** ***I2VGuard:*** *Safeguarding Images against Misuse in Diffusion-based Image-to-Video Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Gui_I2VGuard_Safeguarding_Images_against_Misuse_in_Diffusion-based_Image-to-Video_Models_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Gui_I2VGuard_Safeguarding_Images_against_Misuse_in_Diffusion-based_Image-to-Video_Models_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** ***LeviTor:*** *3D Trajectory Oriented Image-to-Video Synthesis*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_LeviTor_3D_Trajectory_Oriented_Image-to-Video_Synthesis_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/ant-research/LeviTor)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_LeviTor_3D_Trajectory_Oriented_Image-to-Video_Synthesis_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/ant-research/LeviTor)
 
 *   **[ICCV 2025]** ***AnyI2V:*** *Animating Any Conditional Image with Motion Control*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.02857) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FudanCVL/AnyI2V)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.02857) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FudanCVL/AnyI2V)
 
 *   **[ICCV 2025]** *Versatile Transition Generation with Image-to-Video Diffusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.01698)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.01698)
 
 
 
@@ -646,34 +646,34 @@
 <summary><h4>✅ Published Papers</h4></summary>
 
 *   **[CVPR 2024]** *Your Image Is My Video: Reshaping the Receptive Field via Image-to-Video Differentiable AutoAugmentation and Fusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00557)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00557)
 
 *   **[CVPR 2024]** ***TRIP:*** *Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00828)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00828)
 
 *   **[CVPR 2024]** *Enhanced Motion-Text Alignment for Image-to-Video Transfer Learning*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01751)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01751)
 
 *   **[CVPR 2024]** *Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00779) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HumanAIGC/AnimateAnyone)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00779) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HumanAIGC/AnimateAnyone)
 
 *   **[ECCV 2024]** ***MOFA-Video:*** *Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72655-2_7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MyNiuuu/MOFA-Video)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72655-2_7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MyNiuuu/MOFA-Video)
 
 *   **[ECCV 2024]** *$\mathrm R2$-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72940-9_24) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yeliudev/R2-Tuning)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72940-9_24) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yeliudev/R2-Tuning)
 
 *   **[ECCV 2024]** ***PhysGen:*** *Rigid-Body Physics-Grounded Image-to-Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73007-8_21) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/stevenlsw/physgen)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73007-8_21) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/stevenlsw/physgen)
 
 *   **[ECCV 2024]** *Rethinking Image-to-Video Adaptation: An Object-Centric Perspective*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72775-7_19)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72775-7_19)
 
 *   **[NeurIPS 2024]** ***TPC:*** *Test-time Procrustes Calibration for Diffusion-based Human Image Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/d6fdc3002dda4c3cad3d595ac6fa5352-Abstract-Conference.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/d6fdc3002dda4c3cad3d595ac6fa5352-Abstract-Conference.html)
 
 *   **[NeurIPS 2024]** *Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/35cb54b887e7aafe74829677cce6c5c6-Abstract-Conference.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-ml/cond-image-leakage)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/35cb54b887e7aafe74829677cce6c5c6-Abstract-Conference.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-ml/cond-image-leakage)
 
 *   **[ICML 2024]** ***Video-LaVIT:*** *Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization*<br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=S9lk6dk4LL)
@@ -682,14 +682,14 @@
     [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/Video-LaVIT-v1)
 
 *   **[SIGGRAPH 2024]** ***I2V-Adapter:*** *A General Image-to-Video Adapter for Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1145/3641519.3657407) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KwaiVGI/I2V-Adapter)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1145/3641519.3657407) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KwaiVGI/I2V-Adapter)
 
 
 *   **[SIGGRAPH 2024]** ***Motion-I2V:*** *Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1145/3641519.3657497) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/G-U-N/Motion-I2V)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1145/3641519.3657497) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/G-U-N/Motion-I2V)
 
 *   **[AAAI 2024]** *Continuous Piecewise-Affine Based Motion Model for Image Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v38i6.28351) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/whx-sjtu/AAAI2024-CPABMM)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v38i6.28351) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/whx-sjtu/AAAI2024-CPABMM)
 
 
 
@@ -728,10 +728,10 @@
 
 
 *   **[ICCV 2023]** ***DreamPose:*** *Fashion Image-to-Video Synthesis via Stable Diffusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.02073) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/johannakarras/DreamPose)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.02073) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/johannakarras/DreamPose)
 
 *   **[ICCV 2023]** *Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.01281) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alibaba-mmai-research/DiST)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.01281) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alibaba-mmai-research/DiST)
 
 
 
@@ -766,89 +766,89 @@
 <summary><h4>✅ Published Papers</h4></summary>
 
 *   **[CVPR 2025]** ***VideoHandles:*** *Editing 3D Object Compositions in Videos Using Video Generative Priors*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Koo_VideoHandles_Editing_3D_Object_Compositions_in_Videos_Using_Video_Generative_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Koo_VideoHandles_Editing_3D_Object_Compositions_in_Videos_Using_Video_Generative_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** ***VideoDirector:*** *Precise Video Editing via Text-to-Video Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VideoDirector_Precise_Video_Editing_via_Text-to-Video_Models_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Yukun66/Video_Director)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VideoDirector_Precise_Video_Editing_via_Text-to-Video_Models_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Yukun66/Video_Director)
 
 *   **[CVPR 2025]** ***VideoSPatS:*** *Video SPatiotemporal Splines for Disentangled Occlusion, Appearance and Motion Modeling and Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Gonzalez_VideoSPatS_Video_SPatiotemporal_Splines_for_Disentangled_Occlusion_Appearance_and_Motion_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Gonzalez_VideoSPatS_Video_SPatiotemporal_Splines_for_Disentangled_Occlusion_Appearance_and_Motion_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** ***Align-A-Video:*** *Deterministic Reward Tuning of Image Diffusion Models for Consistent Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Align-A-Video_Deterministic_Reward_Tuning_of_Image_Diffusion_Models_for_Consistent_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Align-A-Video_Deterministic_Reward_Tuning_of_Image_Diffusion_Models_for_Consistent_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** *Unity in Diversity: Video Editing via Gradient-Latent Purification*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Unity_in_Diversity_Video_Editing_via_Gradient-Latent_Purification_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_Unity_in_Diversity_Video_Editing_via_Gradient-Latent_Purification_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** ***VEU-Bench:*** *Towards Comprehensive Understanding of Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VEU-Bench_Towards_Comprehensive_Understanding_of_Video_Editing_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/littlespray/VE-Bench)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Li_VEU-Bench_Towards_Comprehensive_Understanding_of_Video_Editing_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/littlespray/VE-Bench)
 
 *   **[CVPR 2025]** ***SketchVideo:*** *Sketch-based Video Generation and Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SketchVideo_Sketch-based_Video_Generation_and_Editing_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/IGLICT/SketchVideo)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SketchVideo_Sketch-based_Video_Generation_and_Editing_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/IGLICT/SketchVideo)
 
 *   **[CVPR 2025]** ***FATE:*** *Full-head Gaussian Avatar with Textural Editing from Monocular Video*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_FATE_Full-head_Gaussian_Avatar_with_Textural_Editing_from_Monocular_Video_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/zjwfufu/FateAvatar)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_FATE_Full-head_Gaussian_Avatar_with_Textural_Editing_from_Monocular_Video_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/zjwfufu/FateAvatar)
 
 *   **[CVPR 2025]** *Visual Prompting for One-shot Controllable Video Editing without Inversion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Visual_Prompting_for_One-shot_Controllable_Video_Editing_without_Inversion_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Visual_Prompting_for_One-shot_Controllable_Video_Editing_without_Inversion_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** ***FADE:*** *Frequency-Aware Diffusion Model Factorization for Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_FADE_Frequency-Aware_Diffusion_Model_Factorization_for_Video_Editing_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/EternalEvan/FADE)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_FADE_Frequency-Aware_Diffusion_Model_Factorization_for_Video_Editing_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/EternalEvan/FADE)
 
 *   **[ICCV 2025]** ***VACE:*** *All-in-One Video Creation and Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.07598)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.07598)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-vilab.github.io/VACE-Page/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ali-vilab/VACE)
 
 *   **[ICCV 2025]** ***Reangle-A-Video:*** *4D Video Generation as Video-to-Video Translation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.09151)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.09151)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anony1anony2.github.io/)
 
 *   **[ICCV 2025]** ***DIVE:*** *Taming DINO for Subject-Driven Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.03347)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.03347)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dino-video-editing.github.io/)
 
 *   **[ICCV 2025]** **DynamicFace:** *High-Quality and Consistent Face Swapping for Image and Video using Composable 3D Facial Priors*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1368)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1368)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dynamic-face.github.io/)
 
 *   **[ICCV 2025]** ***QK-Edit:*** *Revisiting Attention-based Injection in MM-DiT for Image and Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/215)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/215)
 
 *   **[ICCV 2025]** ***Teleportraits:*** *Training-Free People Insertion into Any Scene*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/809)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/809)
 
 *   **[ICLR 2025]** ***VideoGrain:*** *Modulating Space-Time Attention for Multi-Grained Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=SSslAtcPB6)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=SSslAtcPB6)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/knightyxp/VideoGrain)
 
 *   **[AAAI 2025]** ***FreeMask:*** *Rethinking the Importance of Attention Masks for Zero-Shot Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i2.32185) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/LinglingCai0314/FreeMask)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i2.32185) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/LinglingCai0314/FreeMask)
 
 *   **[AAAI 2025]** ***EditBoard:*** *Towards a Comprehensive Evaluation Benchmark for Text-Based Video Editing Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i15.33754) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/Samchen2003/EditBoard)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i15.33754) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/Samchen2003/EditBoard)
 
 
 *   **[AAAI 2025]** ***VE-Bench:*** *Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i7.32763) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/littlespray/VE-Bench)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i7.32763) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/littlespray/VE-Bench)
 
 *   **[AAAI 2025]** *Re-Attentional Controllable Video Diffusion Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i8.32876) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/mdswyz/ReAtCo)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i8.32876) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/mdswyz/ReAtCo)
 
 *   **[WACV 2025]** ***IP-FaceDiff:*** *Identity-Preserving Facial Video Editing with Diffusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACVW65960.2025.00031)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACVW65960.2025.00031)
 
 *   **[WACV 2025]** ***SST-EM:*** *Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACVW65960.2025.00032) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/custommetrics-sst/SST_CustomEvaluationMetrics.git)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACVW65960.2025.00032) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/custommetrics-sst/SST_CustomEvaluationMetrics.git)
 
 *   **[WACV 2025]** ***MagicStick:*** *Controllable Video Editing via Control Handle Transformations*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00909)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00909)
 
 *   **[WACV 2025]** ***Ada-VE:*** *Training-Free Consistent Video Editing Using Adaptive Motion Prior*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00101)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00101)
 
 *   **[WACV 2025]** ***FastVideoEdit:*** *Leveraging Consistency Models for Efficient Text-to-Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00360) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/youyuan-zhang/FastVideoEdit)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00360) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/youyuan-zhang/FastVideoEdit)
 
 
 
@@ -919,73 +919,73 @@
 <summary><h4>✅ Published Papers</h4></summary>
 
 *   **[CVPR 2024]** *A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00719) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/STEM-Inv/stem-inv)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00719) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/STEM-Inv/stem-inv)
 
 *   **[CVPR 2024]** ***VidToMe:*** *Video Token Merging for Zero-Shot Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00715) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/VISION-SJTU/VidToMe)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00715) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/VISION-SJTU/VidToMe)
 
 *   **[CVPR 2024]** ***Video-P2P:*** *Video Editing with Cross-Attention Control*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00821) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/dvlab-research/Video-P2P)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00821) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/dvlab-research/Video-P2P)
 
 *   **[CVPR 2024]** ***CCEdit:*** *Creative and Controllable Video Editing via Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00641)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00641)
 
 *   **[CVPR 2024]** ***RAVE:*** *Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00622) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/rehglab/RAVE)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00622) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/rehglab/RAVE)
 
 *   **[CVPR 2024]** ***DynVideo-E:*** *Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00732) 
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00732) 
 
 *   **[CVPR 2024]** ***MaskINT:*** *Video Editing via Interpolative Non-autoregressive Masked Transformers*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00707)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00707)
 
 *   **[CVPR 2024]** ***MotionEditor:*** *Editing Video Motion via Content-Aware Diffusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00753) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Francis-Rings/MotionEditor)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00753) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Francis-Rings/MotionEditor)
 
 *   **[CVPR 2024]** ***CAMEL:*** *CAusal Motion Enhancement Tailored for Lifting Text-Driven Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00867) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/zhangguiwei610/CAMEL)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00867) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/zhangguiwei610/CAMEL)
 
 *   **[ICLR 2024]** ***Ground-A-Video:*** *Zero-shot Grounded Video Editing using Text-to-image Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=28L2FCtMWq) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Ground-A-Video/Ground-A-Video)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=28L2FCtMWq) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/Ground-A-Video/Ground-A-Video)
 
 *   **[ICLR 2024]** *Video Decomposition Prior: Editing Videos Layer by Layer*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=nfMyERXNru)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=nfMyERXNru)
 
 *   **[ICLR 2024]** ***FLATTEN:*** *optical FLow-guided ATTENtion for consistent text-to-video editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=JgqftqZQZ7)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=JgqftqZQZ7)
 
 *   **[ICLR 2024]** ***TokenFlow:*** *Consistent Diffusion Features for Consistent Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=lKK50q2MtV) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/omerbt/TokenFlow)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=lKK50q2MtV) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/omerbt/TokenFlow)
 
 *   **[ECCV 2024]** ***VIDEOSHOP:*** *Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73254-6_14) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sfanxiang/videoshop)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73254-6_14) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sfanxiang/videoshop)
 
 *   **[ECCV 2024]** ***DragVideo:*** *Interactive Drag-Style Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72992-8_11) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/RickySkywalker/DragVideo-Official)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72992-8_11) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/RickySkywalker/DragVideo-Official)
 
 *   **[ECCV 2024]** ***WAVE:*** *Warping DDIM Inversion Features for Zero-Shot Text-to-Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73116-7_3)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73116-7_3)
 
 *   **[ECCV 2024]** ***DreamMotion:*** *Space-Time Self-similar Score Distillation for Zero-Shot Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73404-5_21)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73404-5_21)
 
 *   **[ECCV 2024]** *Object-Centric Diffusion for Efficient Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72998-0_6) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Qualcomm-AI-research/object-centric-diffusion)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72998-0_6) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Qualcomm-AI-research/object-centric-diffusion)
 
 *   **[ECCV 2024]** *Video Editing via Factorized Diffusion Distillation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73116-7_26)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73116-7_26)
 
 *   **[ECCV 2024]** ***SAVE:*** *Protagonist Diversification with Structure Agnostic Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72989-8_3)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72989-8_3)
 
 *   **[ECCV 2024]** ***DNI:*** *Dilutional Noise Initialization for Diffusion Video Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73195-2_11)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73195-2_11)
 
 *   **[ECCV 2024]** ***MagDiff:*** *Multi-alignment Diffusion for High-Fidelity Video Generation and Editing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72649-1_12)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72649-1_12)
 
 *   **[ECCV 2024]** ***DeCo:*** *Decoupled Human-Centered Diffusion Video Editing with Motion Consistency*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72784-9_20)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-72784-9_20)
 
 
 
@@ -1068,71 +1068,71 @@
 
 
 *   **[CVPR 2025]** ***IM-Zero:*** *Instance-level Motion Controllable Video Generation in a Zero-shot Manner*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_IM-Zero_Instance-level_Motion_Controllable_Video_Generation_in_a_Zero-shot_Manner_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_IM-Zero_Instance-level_Motion_Controllable_Video_Generation_in_a_Zero-shot_Manner_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** ***AnimateAnything:*** *Consistent and Controllable Animation for Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Lei_AnimateAnything_Consistent_and_Controllable_Animation_for_Video_Generation_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Lei_AnimateAnything_Consistent_and_Controllable_Animation_for_Video_Generation_CVPR_2025_paper.html)
 
 *   **[CVPR 2025]** *Customized Condition Controllable Generation for Video Soundtrack*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Customized_Condition_Controllable_Generation_for_Video_Soundtrack_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FanQi-AI/CCCG-Video-Soundtrack) 
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Qi_Customized_Condition_Controllable_Generation_for_Video_Soundtrack_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FanQi-AI/CCCG-Video-Soundtrack) 
 
 *   **[CVPR 2025]** ***StarGen:*** *A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhai_StarGen_A_Spatiotemporal_Autoregression_Framework_with_Video_Diffusion_Model_for_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Zhai_StarGen_A_Spatiotemporal_Autoregression_Framework_with_Video_Diffusion_Model_for_CVPR_2025_paper.html)
 
 *   **[ICCV 2025]** ***Perception-as-Control:*** *Fine-grained Controllable Image Animation with 3D-aware Motion Representation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.05020)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.05020)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chen-yingjie.github.io/projects/Perception-as-Control/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chen-yingjie/Perception-as-Control)
 
 *   **[ICCV 2025]** ***MagicMirror:*** *ID-Preserved Video Generation in Video Diffusion Transformers*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.03931)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.03931)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dvlab-research/MagicMirror)
 
 *   **[ICCV 2025]** ***MagicDrive-V2:*** *High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1169)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1169)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gaoruiyuan.com/magicdrive-v2/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/flymin/MagicDrive-V2)
 
 *   **[ICCV 2025]** ***InfiniCube:*** *Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2324)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2324)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.nvidia.com/labs/toronto-ai/infinicube/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/nv-tlabs/InfiniCube)
 
 *   **[ICCV 2025]** ***Free-Form Motion Control (SynFMC):*** *Controlling the 6D Poses of Camera and Objects in Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/414)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/414)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://henghuiding.com/SynFMC/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FudanCVL/SynFMC)
 
 *   **[ICCV 2025]** ***RealCam-I2V:*** *Real-World Image-to-Video Generation with Interactive Complex Camera Control*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1440)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1440)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zgctroy.github.io/RealCam-I2V/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ZGCTroy/RealCam-I2V)
 
 *   **[ICCV 2025]** ***MagicMotion:*** *Video Generation with a Smart Director*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2506)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2506)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quanhaol.github.io/magicmotion-site/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/quanhaol/MagicMotion)
 
 *   **[ICCV 2025]** ***UniMLVG:*** *Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.04842)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.04842)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sensetime-fvg.github.io/UniMLVG/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SenseTime-FVG/UniMLVG)
 
 *   **[ICLR 2025]** ***MotionClone:*** *Training-Free Motion Cloning for Controllable Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=aY3L65HgHJ) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/LPengYang/MotionClone) 
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=aY3L65HgHJ) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/LPengYang/MotionClone) 
 
 *   **[ICLR 2025]** ***Ctrl-U:*** *Robust Conditional Image Generation via Uncertainty-aware Reward Modeling*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=eC2ICbECNM) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FanQi-AI/CCCG-Video-Soundtrack) 
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=eC2ICbECNM) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FanQi-AI/CCCG-Video-Soundtrack) 
 
 *   **[AAAI 2025]** ***CAGE:*** *Unsupervised Visual Composition and Animation for Controllable Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i15.33775) [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/Araachie/cage)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i15.33775) [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/Araachie/cage)
 
 *   **[AAAI 2025]** ***TrackGo:*** *A Flexible and Efficient Method for Controllable Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i10.33167)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i10.33167)
 
 
 *   **[WACV 2025]** *Fine-grained Controllable Video Generation via Object Appearance and Context*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00364)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/WACV61041.2025.00364)
 
 
 
@@ -1168,13 +1168,13 @@
 
 
 *   **[CVPR 2024]** ***360DVD:*** *Controllable Panorama Video Generation with 360-Degree Video Diffusion Model*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00660) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Akaneqwq/360DVD)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00660) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Akaneqwq/360DVD)
 
 *   **[CVPR 2024]** ***Panacea:*** *Panoramic and Controllable Video Generation for Autonomous Driving*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00659) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wenyuqing/panacea)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00659) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wenyuqing/panacea)
 
 *   **[AAAI 2024]** *Decouple Content and Motion for Conditional Image-to-Video Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v38i5.28277)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v38i5.28277)
 
 
 
@@ -1207,7 +1207,7 @@
 
 
 *   **[CVPR 2023]** *Conditional Image-to-Video Generation with Latent Flow Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52729.2023.01769) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/nihaomiao/CVPR23_LFDM)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52729.2023.01769) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/nihaomiao/CVPR23_LFDM)
 
 
 
@@ -1263,17 +1263,17 @@
 
 
 *   **[ICCV 2025]** ***FLOAT:*** *Generative Motion Latent Flow Matching for Audio-driven Talking Portrait*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.01064)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.01064)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepbrainai-research.github.io/float/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/deepbrainai-research/float)
 
 *   **[ICCV 2025]** ***GaussianSpeech:*** *Audio-Driven Personalized 3D Gaussian Avatars*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.18675)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.18675)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shivangi-aneja.github.io/projects/gaussianspeech/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/shivangi-aneja/GaussianSpeech)
 
 *   **[ICCV 2025]** ***ACTalker:*** *Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.02542)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.02542)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harlanhong.github.io/publications/actalker/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/harlanhong/ACTalker)
 
@@ -1388,31 +1388,31 @@
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/StableAnimator)
 
 *   **[CVPR 2025]** ***Disco4D:*** *Disentangled 4D Human Generation and Animation from a Single Image*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Disco4D_Disentangled_4D_Human_Generation_and_Animation_from_a_Single_CVPR_2025_paper.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Pang_Disco4D_Disentangled_4D_Human_Generation_and_Animation_from_a_Single_CVPR_2025_paper.html)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://disco-4d.github.io/)
 
 *   **[ICCV 2025]** ***DreamActor-M1:*** *Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/288)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/288)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grisoon.github.io/DreamActor-M1/)
 
 *   **[ICCV 2025]** ***Animate Anyone 2:*** *High-Fidelity Character Image Animation with Environment Affordance*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2502.06145)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2502.06145)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://humanaigc.github.io/animate-anyone-2/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HumanAIGC/animate-anyone-2)
 
 *   **[ICCV 2025]** *Multi-identity Human Image Animation with Structural Video Diffusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/638)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/638)
 
 *   **[ICCV 2025]** ***OmniHuman-1:*** *Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2201)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2201)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnihuman-lab.github.io/)
 
 *   **[ICCV 2025]** ***AdaHuman:*** *Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.24877)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.24877)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nvlabs.github.io/AdaHuman/)
 
 *   **[ICCV 2025]** ***Ponimator:*** *Unfolding Interactive Pose for Versatile Human-human Interaction Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1453)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1453)
 
 
 *   **[ICLR 2025]** ***Animate-X:*** *Universal Character Image Animation with Enhanced Motion Representation*<br>
@@ -1465,22 +1465,22 @@
 
 
 *   **[CVPR 2024]** ***MagicAnimate:*** *Temporally Consistent Human Image Animation using Diffusion Model*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00147)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00147)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://showlab.github.io/magicanimate/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/magic-research/magic-animate)
 
 *   **[ECCV 2024]** ***Champ:*** *Controllable and Consistent Human Image Animation with 3D Parametric Guidance*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73001-6_9)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1007/978-3-031-73001-6_9)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudan-generative-vision.github.io/champ/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fudan-generative-vision/champ)
 
 *   **[NeurIPS 2024]** ***HumanVid:*** *Demystifying Training Data for Camera-controllable Human Image Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/23f3a0f82d79d985b6076bc84d14f66b-Abstract-Datasets_and_Benchmarks_Track.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/23f3a0f82d79d985b6076bc84d14f66b-Abstract-Datasets_and_Benchmarks_Track.html)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://humanvid.github.io/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhenzhiwang/HumanVid)
 
 *   **[NeurIPS 2024]** ***TPC:*** *Test-time Procrustes Calibration for Diffusion-based Human Image Animation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/d6fdc3002dda4c3cad3d595ac6fa5352-Abstract-Conference.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/d6fdc3002dda4c3cad3d595ac6fa5352-Abstract-Conference.html)
 
 *   **[ICLR 2024]** *DisPose: Disentangling Pose Guidance for Controllable Human Image Animation*<br>
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://openreview.net/forum?id=AumOa10MKG)
@@ -1520,61 +1520,61 @@
 <summary><h4>✅ Published Papers</h4></summary>
 
 *   **[CVPR 2025]** *Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://cvpr.thecvf.com/virtual/2025/poster/34471)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://cvpr.thecvf.com/virtual/2025/poster/34471)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liewfeng.github.io/TeaCache/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ali‑vilab/TeaCache)
 
 *   **[CVPR 2025]** *CausVid: From Slow Bidirectional to Fast Autoregressive VDMs*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_From_Slow_Bidirectional_to_Fast_Autoregressive_Video_Diffusion_Models_CVPR_2025_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_From_Slow_Bidirectional_to_Fast_Autoregressive_Video_Diffusion_Models_CVPR_2025_paper.pdf)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/tianweiy/CausVid)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tianweiy/CausVid)
 
 *   **[CVPR 2025]** ***BlockDance:*** *Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=yJAk0n0NyU)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=yJAk0n0NyU)
 
 *   **[ICCV 2025]** ***AdaCache:*** *Adaptive Caching for Faster Video Generation with Diffusion Transformers*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.02397)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.02397)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adacache-dit.github.io/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/AdaCache-DiT/AdaCache)
 
 *   **[ICCV 2025]** ***TaylorSeer:*** *From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/448)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/448)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taylorseer.github.io/TaylorSeer/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Shenyi-Z/TaylorSeer)
 
 *   **[ICCV 2025]** *Accelerating Diffusion Transformer via Gradient-Optimized Cache*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1026)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/1026)
 
 *   **[ICCV 2025]** ***V.I.P.:*** *Iterative Online Preference Distillation for Efficient Video Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.03254)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.03254)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jiiiisoo.github.io/VIP.github.io/)
 
 *   **[ICCV 2025]** ***DMDX:*** *Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2528)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/2528)
 
 *   **[ICCV 2025]** ***OmniCache:*** *A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for DiT*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.16212)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.16212)
 
 *   **[ICLR 2025]** ***FasterCache:*** *Training-Free Video Diffusion Model Acceleration with High Quality*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=yJAk0n0NyU)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=yJAk0n0NyU)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)]([[此处替换为GitHub链接]](https://github.com/Vchitect/FasterCache))
 
 *   **[ICML 2025]** ***Sparse VideoGen:***  *Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=u8CA3qIS0V)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=u8CA3qIS0V)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://svg-project.github.io/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/svg-project/Sparse-VideoGen)
 
 *   **[ICML 2025]** *Fast Video Generation with Sliding Tile Attention*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=U74MOXPEJd)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=U74MOXPEJd)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hao-ai-lab.github.io/blogs/sta/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hao-ai-lab/FastVideo)
 
 *   **[ICML 2025]** ***Ca2-VDM:*** *Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://icml.cc/virtual/2025/poster/45139)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://icml.cc/virtual/2025/poster/45139)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Dawn‑LX/CausalCache‑VDM)
 
 *   **[ICML 2025]** ***AsymRnR:*** *Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://icml.cc/virtual/2025/poster/46432)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://icml.cc/virtual/2025/poster/46432)
 
 
 
@@ -1614,24 +1614,24 @@
 <summary><h4>✅ Published Papers</h4></summary>
 
 *   **[CVPR 2024]** ***Cache Me if You Can:*** *Accelerating Diffusion Models through Block Caching*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Wimbauer_Cache_Me_if_You_Can_Accelerating_Diffusion_Models_through_Block_CVPR_2024_paper.pdf)
 
 *   **[NeurIPS 2024]** *Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/c859b99b5d717c9035e79d43dfd69435-Abstract-Conference.html)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://papers.nips.cc/paper_files/paper/2024/hash/c859b99b5d717c9035e79d43dfd69435-Abstract-Conference.html)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yhzhai.github.io/mcm/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yhZhai/mcm)
 
 *   **[NeurIPS 2024]** *Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=cS63YtJ49A)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=cS63YtJ49A)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jiakangyuan.github.io/AdaptiveDiffusion/)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/UniModal4Reasoning/AdaptiveDiffusion)
 
 *   **[NeurIPS 2024]** *Fast and Memory-Efficient Video Diffusion Using Streamlined Inference*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.01171)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.01171)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wuyushuwys/FMEDiffusion)
 
 *   **[IJCAI 2024]** ***FasterVD:*** *On Acceleration of Video Diffusion Models*<br>
-    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ijcai.org/proceedings/2024/1044.pdf)
+     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://www.ijcai.org/proceedings/2024/1044.pdf)
 
 </details>
 
