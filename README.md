@@ -57,6 +57,7 @@
 - [🗂️ Datasets](#️-datasets)
 - [🎓 About Us](#-about-us)
 - [🤝 Contributing](#-contributing)
+- [💬 Join the Community](#-join-the-community)
 
 ---
 
@@ -1725,3 +1726,15 @@ Maintaining this `Awesome Video Generation` list requires significant effort, ju
 ## <span id="contributing">🤝 Contributing</span>
 
 Contributions are welcome! Please see our [**Contribution Guidelines**](CONTRIBUTING.md) for details on how to add new papers, correct information, or improve the repository.
+
+---
+
+## <span id="community">💬 Join the Community</span>
+
+Join our community to stay up-to-date with the latest advancements, share your work, and collaborate with other researchers and developers in the field of video generation.
+
+<div align="center">
+  <a href="YOUR_OFFICIAL_WEBSITE_URL">
+    <img src="assets/group.png" alt="QuenithAI Logo">
+  </a>
+</div>
