@@ -54,6 +54,7 @@
   - [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation)
   - [💃 Human Image Animation](#-human-image-animation)
   - [⚡ Fast Video Generation (Acceleration)](#-fast-video-generation-acceleration)
+  - [🎯 Reinforcement Learning for Video Generation](#-reinforcement-learning-for-video-generation)
 - [🗂️ Datasets](#️-datasets)
 - [🎓 About Us](#-about-us)
 - [🤝 Contributing](#-contributing)
@@ -1656,6 +1657,98 @@
 
 [<small>⇧ Back to ToC</small>](#contents)
 
+### <span id="rl">🎯 Reinforcement Learning for Video Generation</span>
+
+<details>
+<summary><h4>✨ 2025</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+
+* **[ICCV 2025]** ***LongAnimation:*** Long Animation Generation with Dynamic Global‑Local Memory<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://arxiv.org/pdf/2507.01945) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cn-makers.github.io/long_animation_web/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/CN-makers/LongAnimation) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/CNcreator0331/LongAnimation) 
+
+* **[ICCV 2025]** ***TesserAct:*** Learning 4D Embodied World Models<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](http://arxiv.org/pdf/2504.20995) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tesseractworld.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/UMass-Embodied-AGI/TesserAct) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/anyeZHY/tesseract)
+
+* **[ICLR 2025]** ***DartControl:*** A Diffusion‑Based Autoregressive Motion Model for Real‑Time Text‑Driven Motion Control<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2410.05260) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zkf1997.github.io/DART/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zkf1997/DART)
+
+* **[ICLR 2025]** ***FLIP:*** Flow‑Centric Generative Planning as General‑Purpose Manipulation World Model<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.08261) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nus-lins-lab.github.io/flipweb/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HeegerGao/FLIP)
+
+* **[CVPR 2025]** ***VideoDPO:*** Omni‑Preference Alignment for Video Diffusion Generation<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.14167) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://videodpo.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/CIntellifusion/VideoDPO)
+
+
+
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi‑Modal and Multi‑Task Human Animation](http://arxiv.org/pdf/2507.03905) [![GitHub Stars](https://img.shields.io/github/stars/antgroup/echomimic_v3?style=social)](https://github.com/antgroup/echomimic_v3)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://antgroup.github.io/ai/echomimic_v3/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/BadToBest/EchoMimicV3)
+- [Video Perception Models for 3D Scene Synthesis](http://arxiv.org/pdf/2506.20601) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vipscene.github.io)
+- [RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](http://arxiv.org/pdf/2506.18655) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://wwenxu.github.io/RDPO/)
+- [VQ‑Insight: Teaching VLMs for AI‑Generated Video Quality Understanding via Progressive Visual Reinforcement Learning](http://arxiv.org/pdf/2506.18564)
+- [Toward Rich Video Human‑Motion2D Generation](http://arxiv.org/pdf/2506.14428) [![GitHub Stars](https://img.shields.io/github/stars/FooAuto/Toward-Rich-Video-Human-Motion2D-Generation?style=social)](https://github.com/FooAuto/Toward-Rich-Video-Human-Motion2D-Generation)
+- [AlignHuman: Improving Motion and Fidelity via Timestep‑Segment Preference Optimization for Audio‑Driven Human Animation](http://arxiv.org/pdf/2506.11144) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://alignhuman.github.io/)
+- [Multimodal Large Language Models: A Survey](http://arxiv.org/pdf/2506.10016)
+- [Seedance 1.0: Exploring the Boundaries of Video Generation Models](http://arxiv.org/pdf/2506.09113)
+- [ContentV: Efficient Training of Video Generation Models with Limited Compute](http://arxiv.org/pdf/2506.05343) [![GitHub Stars](https://img.shields.io/github/stars/bytedance/ContentV?style=social)](https://github.com/bytedance/ContentV)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://contentv.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/ByteDance/ContentV-8B)
+- [Photography Perspective Composition: Towards Aesthetic Perspective Recommendation](http://arxiv.org/pdf/2505.20655) [![GitHub Stars](https://img.shields.io/github/stars/vivoCameraResearch/p-p-c?style=social)](https://github.com/vivoCameraResearch/p-p-c)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vivocameraresearch.github.io/ppc)
+- [Scaling Image and Video Generation via Test‑Time Evolutionary Search](http://arxiv.org/pdf/2505.17618) [![GitHub Stars](https://img.shields.io/github/stars/tinnerhrhe/EvoSearch-codes?style=social)](https://github.com/tinnerhrhe/EvoSearch-codes)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://tinnerhrhe.github.io/evosearch/)
+- [InfLVG: Reinforce Inference‑Time Consistent Long Video Generation with GRPO](http://arxiv.org/pdf/2505.17574) [![GitHub Stars](https://img.shields.io/github/stars/maple-aigc/InfLVG?style=social)](https://github.com/maple-aigc/InfLVG)
+- [AvatarShield: Visual Reinforcement Learning for Human‑Centric Video Forgery Detection](http://arxiv.org/pdf/2505.15173) [![GitHub Stars](https://img.shields.io/github/stars/zhipeixu/AvatarShield?style=social)](https://github.com/zhipeixu/AvatarShield)
+- [RLVR‑World: Training World Models with Reinforcement Learning](http://arxiv.org/pdf/2505.13934) [![GitHub Stars](https://img.shields.io/github/stars/thuml/RLVR-World?style=social)](https://github.com/thuml/RLVR-World)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://thuml.github.io/RLVR-World) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/collections/thuml/rlvr-world-682f331c75a904b8febc366a)
+- [Diffusion‑NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models](http://arxiv.org/pdf/2505.11245) [![GitHub Stars](https://img.shields.io/github/stars/G-U-N/Diffusion-NPO?style=social)](https://github.com/G-U-N/Diffusion-NPO)
+- [DanceGRPO: Unleashing GRPO on Visual Generation](http://arxiv.org/pdf/2505.07818) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://dancegrpo.github.io/)
+- [VideoHallu: Evaluating and Mitigating Multi‑modal Hallucinations on Synthetic Video Understanding](http://arxiv.org/pdf/2505.01481)
+- [Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning](http://arxiv.org/pdf/2504.15932)
+- [SkyReels‑V2: Infinite‑length Film Generative Model](http://arxiv.org/pdf/2504.13074) [![GitHub Stars](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social)](https://github.com/SkyworkAI/SkyReels-V2)
+- [FingER: Content Aware Fine‑grained Evaluation with Reasoning for AI‑Generated Videos](http://arxiv.org/pdf/2504.10358)
+- [Aligning Anime Video Generation with Human Feedback](http://arxiv.org/pdf/2504.10044)
+- [Discriminator‑Free Direct Preference Optimization for Video Diffusion](http://arxiv.org/pdf/2504.08542)
+- [Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments](http://arxiv.org/pdf/2504.02918) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://physics-from-video.github.io/morpheus-bench/)
+- [OmniCam: Unified Multimodal Video Generation via Camera Control](http://arxiv.org/pdf/2504.02312)
+- [VPO: Aligning Text‑to‑Video Generation Models with Prompt Optimization](http://arxiv.org/pdf/2503.20491) [![GitHub Stars](https://img.shields.io/github/stars/thu-coai/VPO?style=social)](https://github.com/thu-coai/VPO)
+- [Zero‑Shot Human‑Object Interaction Synthesis with Multimodal Priors](http://arxiv.org/pdf/2503.20118) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://thorin666.github.io/projects/ZeroHOI)
+- [Judge Anything: MLLM as a Judge Across Any Modality](http://arxiv.org/pdf/2503.17489) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://urrealhero.github.io/judgeanythingweb/)
+- [MagicID: Hybrid Preference Optimization for ID‑Consistent and Dynamic‑Preserved Video Customization](http://arxiv.org/pdf/2503.12689) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://echopluto.github.io/MagicID-project/)
+- [Unified Reward Model for Multimodal Understanding and Generation](http://arxiv.org/pdf/2503.05236) [![GitHub Stars](https://img.shields.io/github/stars/codegoat24/UnifiedReward?style=social)](https://github.com/codegoat24/UnifiedReward)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://codegoat24.github.io/UnifiedReward/)
+- [Pre‑Trained Video Generative Models as World Simulators](https://arxiv.org/pdf/2502.07825)
+- [Harness Local Rewards for Global Benefits: Effective Text‑to‑Video Generation Alignment with Patch‑level Reward Models](https://arxiv.org/pdf/2502.06812)
+- [IPO: Iterative Preference Optimization for Text‑to‑Video Generation](https://arxiv.org/pdf/2502.02088)
+- [MJ‑VIDEO: Fine‑Grained Benchmarking and Rewarding Video Preferences in Video Generation](https://arxiv.org/pdf/2502.01719) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://aiming-lab.github.io/MJ-VIDEO.github.io/)
+- [HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human‑Centric Alignment](https://arxiv.org/pdf/2502.01690)
+- [Zeroth‑order Informed Fine‑Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer](https://arxiv.org/pdf/2502.00639) [![GitHub Stars](https://img.shields.io/github/stars/RTkenny/RLR-Opimtizer?style=social)](https://github.com/RTkenny/RLR-Opimtizer)
+- [Improving Video Generation with Human Feedback](https://arxiv.org/pdf/2501.13918) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://gongyeliu.github.io/videoalign)
+- [VisionReward: Fine‑Grained Multi‑Dimensional Human Preference Learning for Image and Video Generation](https://arxiv.org/pdf/2412.21059) [![GitHub Stars](https://img.shields.io/github/stars/THUDM/VisionReward?style=social)](https://github.com/THUDM/VisionReward)
+- [OnlineVPO: Align Video Diffusion Model with Online Video‑Centric Preference Optimization](https://arxiv.org/pdf/2412.15159) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://onlinevpo.github.io/)
+- [The Matrix: Infinite‑Horizon World Generation with Real‑Time Moving Control](https://arxiv.org/pdf/2412.03568) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://thematrix1999.github.io/)
+- [Improving Dynamic Object Interactions in Text‑to‑Video Generation with AI Feedback](https://arxiv.org/pdf/2412.02617)
+- [Free$^2$Guide: Gradient‑Free Path Integral Control for Enhancing Text‑to‑Video Generation with Large Vision‑Language Models](https://arxiv.org/pdf/2411.17041) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://kjm981995.github.io/free2guide/)
+- [A Reinforcement Learning‑Based Automatic Video Editing Method Using Pre‑trained Vision‑Language Model](https://arxiv.org/pdf/2411.04942)
+- [Video to Video Generative Adversarial Network for Few‑shot Learning Based on Policy Gradient](https://arxiv.org/pdf/2410.20657)
+- [WorldSimBench: Towards Video Generation Models as World Simulators](https://arxiv.org/pdf/2410.18072) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://iranqin.github.io/WorldSimBench.github.io)
+- [Animating the Past: Reconstruct Trilobite via Video Generation](https://arxiv.org/pdf/2410.14715)
+- [VideoAgent: Self‑Improving Video Generation](https://arxiv.org/pdf/2410.10076) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://video-as-agent.github.io)
+- [E‑Motion: Future Motion Simulation via Event Sequence Diffusion](https://arxiv.org/pdf/2410.08649) [![GitHub Stars](https://img.shields.io/github/stars/p4r4mount/E-Motion?style=social)](https://github.com/p4r4mount/E-Motion)
+- [SePPO: Semi‑Policy Preference Optimization for Diffusion Alignment](https://arxiv.org/pdf/2410.05255) [![GitHub Stars](https://img.shields.io/github/stars/DwanZhang-AI/SePPO?style=social)](https://github.com/DwanZhang-AI/SePPO)
+- [Video Diffusion Alignment via Reward Gradients](https://arxiv.org/pdf/2407.08737) [![GitHub Stars](https://img.shields.io/github/stars/mihirp1998/VADER?style=social)](https://github.com/mihirp1998/VADER)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vader-vid.github.io/)
+- [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/pdf/2312.12490) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://instructvideo.github.io/)
+- [AdaDiff: Adaptive Step Selection for Fast Diffusion Models](https://arxiv.org/pdf/2311.14768) [![GitHub Stars](https://img.shields.io/github/stars/Tangshengku/AdaDiff?style=social)](https://github.com/Tangshengku/AdaDiff)
+
+
+
+</details>
+
+</details>
+
+
+[<small>⇧ Back to ToC</small>](#contents)
 
 
 ---
@@ -1695,6 +1788,17 @@
 | **VEU-Bench** | 2025 | Text, Video | Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2504.17828) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/VEU-Benchmark/VEU-Benchmark) |
 | **OpenS2V-5M** | 2025 | Text, Video, Audio | Text-to-Video, Image-to-Video, Subject-to-Video | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2505.20292) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://pku-yuangroup.github.io/OpenS2V-Nexus/) |
 | **SpeakerVid-5M** | 2025 | Text, Video, Audio | Audio-Driven Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2507.09862) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://dorniwang.github.io/SpeakerVid-5M/) |
+| **AIGVQA‑DB** | 2025 | Text, Video, Ratings | Text‑to‑Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/abs/2411.17221) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/wangjiarui153/AIGV-Assessor) |
+| **EvalCrafter** | 2024 | Text, Video | Text‑to‑Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2310.11440) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://evalcrafter.github.io/) |
+| **EditBoard** | 2025 | Video, Instruction, Edited Video | Video‑to‑Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i15.33754) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/Samchen2003/EditBoard) |
+| **VE‑Bench DB** | 2025 | Video, Text, Edited Video | Video‑to‑Video Editing | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i7.32763) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://github.com/littlespray/VE-Bench) |
+| **SAVGBench** | 2024 | Video, Audio, Spatial-Temporal Event | Audio‑Driven Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/abs/2412.13462v1) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](—) |
+| **Morpheus** | 2025 | Video | Reinforcement Learning for Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](http://arxiv.org/pdf/2504.02918) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://physics-from-video.github.io/morpheus-bench/) |
+| **MJ‑Video** | 2025 | Video, Text, Rating | Text‑to‑Video Generation | [![Paper](https://img.shields.io/badge/Paper-Link-red?style=for-the-badge)](https://arxiv.org/pdf/2502.01719) | [![Website](https://img.shields.io/badge/Website-Link-orange?style=for-the-badge)](https://aiming-lab.github.io/MJ-VIDEO.github.io/) |
+
+
+
+
 
 [<small>⇧ Back to ToC</small>](#contents)
 
