@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Sep 13th, 2025)**: Add a new direction: [🎯 Reinforcement Learning for Video Generation](#-reinforcement-learning-for-video-generation).
 - **(Aug 21th, 2025)**: Add a new direction: [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation).
 - **(Aug 20th, 2025)**: Initial commit and repository structure established.
 
@@ -401,7 +402,6 @@
 - [Motion by Queries: Identity-Motion Trade-offs in Text-to-Video Generation](http://arxiv.org/abs/2412.07750v3)
 - [STIV: Scalable Text and Image Conditioned Video Generation](http://arxiv.org/abs/2412.07730v1)
 - [GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration](http://arxiv.org/abs/2412.04440v1) [![GitHub Stars](https://img.shields.io/github/stars/Karine-Huang/GenMAC?style=social)](https://github.com/Karine-Huang/GenMAC) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://karine-h.github.io/GenMAC/)
-- [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](http://arxiv.org/abs/2412.02617v1)
 - [CPA: Camera-pose-awareness Diffusion Transformer for Video Generation](http://arxiv.org/abs/2412.01429v1)
 - [MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation](http://arxiv.org/abs/2411.18281v2)
 - [Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop](http://arxiv.org/abs/2411.18644v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://abolfazl-sh.github.io/Scene_co-pilot_site/)
@@ -1689,6 +1689,8 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
+- [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](https://arxiv.org/pdf/2412.04814) [![GitHub Stars](https://img.shields.io/github/stars/CodeGoat24/LiFT?style=social)](https://github.com/CodeGoat24/LiFT)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://codegoat24.github.io/LiFT/)
+- [VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252) [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore?style=social)](https://github.com/TIGER-AI-Lab/VideoScore/)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://tiger-ai-lab.github.io/VideoScore/)
 - [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi‑Modal and Multi‑Task Human Animation](http://arxiv.org/pdf/2507.03905) [![GitHub Stars](https://img.shields.io/github/stars/antgroup/echomimic_v3?style=social)](https://github.com/antgroup/echomimic_v3)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://antgroup.github.io/ai/echomimic_v3/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/BadToBest/EchoMimicV3)
 - [Video Perception Models for 3D Scene Synthesis](http://arxiv.org/pdf/2506.20601) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vipscene.github.io)
 - [RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](http://arxiv.org/pdf/2506.18655) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://wwenxu.github.io/RDPO/)
