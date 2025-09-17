@@ -301,11 +301,6 @@
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2402.14797)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/snapvideo/video_ldm.html)
 
-*   **[CVPR 2024]** ***Animate Anyone:*** *Consistent and Controllable Image-to-video Synthesis for Character Animation*<br>
-    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2311.17117.pdf)
-    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://humanaigc.github.io/animate-anyone/)
-    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HumanAIGC/AnimateAnyone)
-
 *   **[CVPR 2024]** ***MotionDirector:*** *Motion Customization of Text-to-Video Diffusion Models*<br>
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2310.08465)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/showlab/MotionDirector)
@@ -594,7 +589,23 @@
 *   **[ICCV 2025]** *Versatile Transition Generation with Image-to-Video Diffusion*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.01698)
 
+* **[ICCV 2025]** ***TIP‑I2V:*** *A Million‑Scale Real Text and Image Prompt Dataset for Image‑to‑Video Generation*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2411.04709) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tip-i2v.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/WangWenhao0716/TIP-I2V) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/WenhaoWang/TIP-I2V)
 
+* **[ICCV 2025]** *Unified Video Generation via Next‑Set Prediction in Continuous Domain*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://iccv.thecvf.com/virtual/2025/poster/72)
+
+* **[NeurIPS 2025]** ***GenRec:*** *Unifying Video Generation and Recognition with Diffusion Models*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2408.15241) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wengzejia1/GenRec) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/cookieY/GenRec)
+
+* **[ICCV 2025]** *Precise Action‑to‑Video Generation Through Visual Action Prompts*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.13104) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zju3dv.github.io/VAP)
+
+* **[ICCV 2025]** ***STIV:*** *Scalable Text and Image Conditioned Video Generation*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.07730) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://machinelearning.apple.com/research/conditioned-video-generation) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/papers/STIV)
+
+* **[ICLR 2025]** ***FrameBridge:*** *Improving Image‑to‑Video Generation with Bridge Models*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2410.15371) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-ml/FrameBridge) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://framebridge-icml.github.io)
 
 *   **[ICLR 2025]** ***SG-I2V:*** *Self-Guided Trajectory Control in Image-to-Video Generation*<br>
     [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uQjySppU9x)
@@ -646,6 +657,11 @@
 
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
+
+*   **[CVPR 2024]** ***Animate Anyone:*** *Consistent and Controllable Image-to-video Synthesis for Character Animation*<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2311.17117.pdf)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://humanaigc.github.io/animate-anyone/)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HumanAIGC/AnimateAnyone)
 
 *   **[CVPR 2024]** *Your Image Is My Video: Reshaping the Receptive Field via Image-to-Video Differentiable AutoAugmentation and Fusion*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00557)
@@ -704,7 +720,6 @@
 
 - [OmniDrag: Enabling Motion Control for Omnidirectional Image‑to‑Video Generation](http://arxiv.org/abs/2412.09623v1) [![GitHub Stars](https://img.shields.io/github/stars/lwq20020127/OmniDrag?style=social)](https://github.com/lwq20020127/OmniDrag)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://lwq20020127.github.io/OmniDrag/)
 - [CamI2V: Camera‑Controlled Image‑to‑Video Diffusion Model](http://arxiv.org/abs/2410.15957v3) [![GitHub Stars](https://img.shields.io/github/stars/ZGCTroy/CamI2V?style=social)](https://github.com/ZGCTroy/CamI2V)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://zgctroy.github.io/CamI2V/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/MuteApo/CamI2V)
-- [FrameBridge: Improving Image‑to‑Video Generation with Bridge Models](http://arxiv.org/abs/2410.15371v2) [![GitHub Stars](https://img.shields.io/github/stars/thu-ml/FrameBridge?style=social)](https://github.com/thu-ml/FrameBridge)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://framebridgei2v.github.io/)
 - [Identifying and Solving Conditional Image Leakage in Image‑to‑Video Diffusion Model](http://arxiv.org/abs/2406.15735v3) [![GitHub Stars](https://img.shields.io/github/stars/thu-ml/cond-image-leakage?style=social)](https://github.com/thu-ml/cond-image-leakage)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cond-image-leak.github.io/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/Xiang-cd/DynamiCrafter-CIL)
 - [CamCo: Camera‑Controllable 3D‑Consistent Image‑to‑Video Generation](http://arxiv.org/abs/2406.02509v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ir1d.github.io/CamCo/)
 - [CamViG: Camera Aware Image‑to‑Video Generation with Multimodal Transformers](http://arxiv.org/abs/2405.13195v1)
@@ -1122,9 +1137,6 @@
 
 *   **[ICLR 2025]** ***MotionClone:*** *Training-Free Motion Cloning for Controllable Video Generation*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=aY3L65HgHJ) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/LPengYang/MotionClone) 
-
-*   **[ICLR 2025]** ***Ctrl-U:*** *Robust Conditional Image Generation via Uncertainty-aware Reward Modeling*<br>
-     [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=eC2ICbECNM) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/FanQi-AI/CCCG-Video-Soundtrack) 
 
 *   **[AAAI 2025]** ***CAGE:*** *Unsupervised Visual Composition and Animation for Controllable Video Generation*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i15.33775) [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge)](https://github.com/Araachie/cage)
