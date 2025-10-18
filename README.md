@@ -166,6 +166,15 @@
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jy0205/Pyramid-Flow)
     [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/pyramid-flow-miniflux)
 
+* **[NeurIPS 2025]** *Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/116297) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seaweed-apt.com/2)
+
+* **[NeurIPS 2025]** ***ViewPoint:*** *Panoramic Video Generation with Pretrained Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119145) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ali-vilab/ViewPoint)
+
+* **[NeurIPS 2025]** ***PanoWan:*** *Lifting Diffusion Video Generation Models to 360° with Latitude/Longitude-Aware Mechanisms*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119701) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://panowan.variantconst.com/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/VariantConst/PanoWan)
+
 </details>
 
 
@@ -646,6 +655,8 @@
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jy0205/Pyramid-Flow)
     [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rain1011/pyramid-flow-miniflux)
 
+* **[NeurIPS 2025]** ***MotionRAG:*** *Motion Retrieval-Augmented Image-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/115107) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MCG-NJU/MotionRAG) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MCG-NJU/MotionRAG)
 
 
    
@@ -863,6 +874,9 @@
 *   **[ICLR 2025]** ***VideoGrain:*** *Modulating Space-Time Attention for Multi-Grained Video Editing*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=SSslAtcPB6)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/knightyxp/VideoGrain)
+
+* **[NeurIPS 2025]** ***REGen:*** *Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119175) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wx83.github.io/REGen/)
 
 *   **[AAAI 2025]** ***FreeMask:*** *Rethinking the Importance of Attention Masks for Zero-Shot Video Editing*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1609/aaai.v39i2.32185) [![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=for-the-badge)](https://github.com/LinglingCai0314/FreeMask)
@@ -1329,6 +1343,9 @@
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2409.01876)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyberhost.github.io/)
 
+* **[NeurIPS 2025]** ***MTV:*** *Audio-Sync Video Generation with Multi-Stream Temporal Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/120270) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hjzheng.net/projects/MTV/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/suimuc/MTV_Framework) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/BAAI/MTVCraft)
+
 *   **[AAAI 2025]** ***EchoMimic:*** *Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions*<br>
     [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2409.13689)
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antgroup.github.io/ai/echomimic/)
@@ -1597,6 +1614,10 @@
 *   **[ICLR 2025]** ***FasterCache:*** *Training-Free Video Diffusion Model Acceleration with High Quality*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=yJAk0n0NyU)
     [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)]([[此处替换为GitHub链接]](https://github.com/Vchitect/FasterCache))
+
+
+* **[NeurIPS 2025]** ***MagCache:*** *Fast Video Generation with Magnitude-Aware Cache*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/118625) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zehong-ma.github.io/MagCache/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Zehong-Ma/MagCache)
 
 *   **[ICML 2025]** ***Sparse VideoGen:***  *Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity*<br>
      [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=u8CA3qIS0V)
