@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 19th, 2025)**: We have updated all accepted papers in AAAI 2026.
 - **(Sep 13th, 2025)**: Add a new direction: [🎯 Reinforcement Learning for Video Generation](#-reinforcement-learning-for-video-generation).
 - **(Aug 21th, 2025)**: Add a new direction: [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation).
 - **(Aug 20th, 2025)**: Initial commit and repository structure established.
@@ -76,6 +77,35 @@
 - [Video Diffusion Generation: Comprehensive Review and Open Problems](https://link.springer.com/article/10.1007/s10462-025-11331-6)
 
 ### <span id="t2v">🎥 Text-to-Video (T2V) Generation</span>
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***FlashVideo:*** *Flowing Fidelity to Detail for Efficient High-Resolution Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2502.05179) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foundationvision.github.io/flashvideo-page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FoundationVision/FlashVideo) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/FoundationVision/FlashVideo)
+
+* **[AAAI 2026]** ***DreamRunner:*** *Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2411.16657) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zunwang1.github.io/DreamRunner) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wz0919/DreamRunner)
+
+* **[AAAI 2026]** ***GenMAC:*** *Compositional Text-to-Video Generation with Multi-Agent Collaboration*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.04440) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karine-h.github.io/GenMAC/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Karine-Huang/GenMAC)
+
+* **[AAAI 2026]** ***EmoVid:*** *A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.11002) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zane-zyqiu.github.io/EmoVid)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
+
+
 <details>
 <summary><h4>✨ 2025</h4></summary>
 
@@ -174,6 +204,7 @@
 
 * **[NeurIPS 2025]** ***PanoWan:*** *Lifting Diffusion Video Generation Models to 360° with Latitude/Longitude-Aware Mechanisms*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119701) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://panowan.variantconst.com/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/VariantConst/PanoWan)
+
 
 </details>
 
@@ -589,6 +620,22 @@
 
 ### <span id="i2v">🖼️ Image-to-Video (I2V) Generation</span>
 
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***IPRO:*** *Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2510.14255.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ipro-alimama.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alibaba/ROLL)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
 
 
 <details>
@@ -811,6 +858,27 @@
 [<small>⇧ Back to ToC</small>](#contents)
 
 ### <span id="v2v">✂️ Video-to-Video (V2V) Editing</span>
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***Vid-CamEdit:*** *Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2506.13697.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cvlab-kaist.github.io/Vid-CamEdit/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/cvlab-kaist/Vid-CamEdit)
+
+* **[AAAI 2026]** ***FAME:*** *Fairness-aware Attention-modulated Video Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2510.22960.pdf)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
 
 <details>
 <summary><h4>✨ 2025</h4></summary>
@@ -1116,6 +1184,29 @@
 [<small>⇧ Back to ToC</small>](#contents)
 
 ### <span id="controllable">🕹️ Controllable Video Generation</span>
+
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***OmniVDiff:*** *Omni Controllable Video Diffusion for Generation and Understanding*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2504.10825) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tele-ai.github.io/OmniVDiff/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Tele-AI/OmniVDiff)
+
+* **[AAAI 2026]** ***MotionFlow:*** *Attention-Driven Motion Transfer in Video Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.05275) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://motionflow-diffusion.github.io/)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
 <details>
 <summary><h4>✨ 2025</h4></summary>
 
@@ -1288,6 +1379,27 @@
 ### <span id="audio">🗣️ Audio-Driven Video Generation</span>
 
 <details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***EchoMimicV3:*** *EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2507.03905) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antgroup.github.io/ai/echomimic_v3/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/antgroup/echomimic_v3) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/BadToBest/EchoMimicV3)
+
+* **[AAAI 2026]** ***FantasyTalking2:*** *FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.11255) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-talking2/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-talking2) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/papers/2508.11255)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
+<details>
 <summary><h4>✨ 2025</h4></summary>
 
 <details>
@@ -1427,6 +1539,25 @@
 [<small>⇧ Back to ToC</small>](#contents)
 
 ### <span id="human">💃 Human Image Animation</span>
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+
+* **[AAAI 2026]** ***FantasyHSI:*** *Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2509.01232.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-hsi/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-hsi)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
 
 <details>
 <summary><h4>✨ 2025</h4></summary>
@@ -1570,6 +1701,24 @@
 ### <span id="acceleration">⚡ Fast Video Generation (Acceleration)</span>
 
 <details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***Turbo-VAED:*** *Fast and Stable Transfer of Video-VAEs to Mobile Devices*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.09136.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hustvl/Turbo-VAED) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/hustvl/Turbo-VAED)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
+<details>
 <summary><h4>✨ 2025</h4></summary>
 
 <details>
@@ -1653,7 +1802,6 @@
 - [MixCache: Mixture‑of‑Cache for Video Diffusion Transformer Acceleration](http://arxiv.org/abs/2508.12691v1)
 - [SwiftVideo: A Unified Framework for Few‑Step Video Generation through Trajectory‑Distribution Alignment](http://arxiv.org/abs/2508.06082v1)
 - [Taming Diffusion Transformer for Real‑Time Mobile Video Generation](http://arxiv.org/abs/2507.13343v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://snap-research.github.io/mobile_video_dit/)
-- [Sparse‑vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers](http://arxiv.org/abs/2506.03065v1) [![GitHub Stars](https://img.shields.io/github/stars/Peyton-Chen/Sparse-vDiT?style=social)](https://github.com/Peyton-Chen/Sparse-vDiT)
 - [SRDiffusion: Accelerate Video Diffusion Inference via Sketching‑Rendering Cooperation](http://arxiv.org/abs/2505.19151v1) [![GitHub Stars](https://img.shields.io/github/stars/alibaba/SRDiffusion?style=social)](https://github.com/alibaba/SRDiffusion)
 - [Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic‑Aware Permutation](http://arxiv.org/abs/2505.18875v1)
 - [DVD‑Quant: Data‑free Video Diffusion Transformers Quantization](http://arxiv.org/abs/2505.18663v1) [![GitHub Stars](https://img.shields.io/github/stars/lhxcs/DVD-Quant?style=social)](https://github.com/lhxcs/DVD-Quant)
@@ -1718,6 +1866,24 @@
 ### <span id="rl">🎯 Reinforcement Learning for Video Generation</span>
 
 <details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** *VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.21059) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zai-org/VisionReward) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/zai-org/VisionReward-Video)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
+<details>
 <summary><h4>✨ 2025</h4></summary>
 
 <details>
@@ -1749,7 +1915,6 @@
 
 - [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](https://arxiv.org/pdf/2412.04814) [![GitHub Stars](https://img.shields.io/github/stars/CodeGoat24/LiFT?style=social)](https://github.com/CodeGoat24/LiFT)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://codegoat24.github.io/LiFT/)
 - [VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252) [![GitHub Stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore?style=social)](https://github.com/TIGER-AI-Lab/VideoScore/)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://tiger-ai-lab.github.io/VideoScore/)
-- [EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi‑Modal and Multi‑Task Human Animation](http://arxiv.org/pdf/2507.03905) [![GitHub Stars](https://img.shields.io/github/stars/antgroup/echomimic_v3?style=social)](https://github.com/antgroup/echomimic_v3)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://antgroup.github.io/ai/echomimic_v3/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/BadToBest/EchoMimicV3)
 - [Video Perception Models for 3D Scene Synthesis](http://arxiv.org/pdf/2506.20601) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vipscene.github.io)
 - [RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](http://arxiv.org/pdf/2506.18655) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://wwenxu.github.io/RDPO/)
 - [VQ‑Insight: Teaching VLMs for AI‑Generated Video Quality Understanding via Progressive Visual Reinforcement Learning](http://arxiv.org/pdf/2506.18564)
