@@ -83,6 +83,9 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[AAAI 2026]** *Minute-Long Videos with Dual Parallelisms*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.21070) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dualparal-project.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/DualParal-Project/DualParal) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/FoundationVision/FlashVideo)
+
 * **[AAAI 2026]** ***FlashVideo:*** *Flowing Fidelity to Detail for Efficient High-Resolution Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2502.05179) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://foundationvision.github.io/flashvideo-page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FoundationVision/FlashVideo) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/FoundationVision/FlashVideo)
 
