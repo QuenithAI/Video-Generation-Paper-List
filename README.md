@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Mar 9th, 2026)**: We have updated all accepted papers in CVPR 2026.
 - **(Nov 19th, 2025)**: We have updated all accepted papers in AAAI 2026.
 - **(Sep 13th, 2025)**: Add a new direction: [🎯 Reinforcement Learning for Video Generation](#-reinforcement-learning-for-video-generation).
 - **(Aug 21th, 2025)**: Add a new direction: [🗣️ Audio-Driven Video Generation](#️-audio-driven-video-generation).
