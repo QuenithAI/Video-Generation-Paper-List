@@ -1926,6 +1926,9 @@
 
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [Helios: Real Real-Time Long Video Generation Model](https://huggingface.co/papers/2603.04379) [![GitHub Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Helios?style=social)](https://github.com/PKU-YuanGroup/Helios) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://pku-yuangroup.github.io/Helios-Page/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/collections/BestWishYsh/helios)
+  
 </details>
 
 </details>
