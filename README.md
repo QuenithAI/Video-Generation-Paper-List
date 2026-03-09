@@ -200,25 +200,25 @@
     [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lineargen.github.io/)
 
 * **[ICCV 2025]** ***T2Bs:*** *Text‑to‑Character Blendshapes via Video Generation*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.10678) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/T2Bs/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/snap-research/T2Bs) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.10678) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/T2Bs/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/snap-research/T2Bs)
 
 * **[ICCV 2025]** ***Animate Your Word:*** *Bringing Text to Life via Video Diffusion Prior*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2404.11614) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://animate-your-word.github.io/demo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zliucz/animate-your-word) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2404.11614) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://animate-your-word.github.io/demo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zliucz/animate-your-word)
 
 * **[NeurIPS 2025]** ***Safe‑Sora:*** *Safe Text‑to‑Video Generation via Graphical Watermarking*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.12667) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pku-alignment.github.io/SafeSora/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PKU-Alignment/safe-sora) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/PKU-Alignment/SafeSora)
 
 * **[ICCV 2025]** ***Prompt‑A‑Video:*** *Prompt Your Video Diffusion Model via Preference‑Aligned LLM*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.15156) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jiyt17/Prompt-A-Video) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/jiyatai/Prompt-A-Video-SFT-data)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.15156) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jiyt17/Prompt-A-Video) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/jiyatai/Prompt-A-Video-SFT-data)
 
 * **[ICCV 2025]** ***MotionShot:*** *Adaptive Motion Transfer across Arbitrary Objects for Text‑to‑Video Generation*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.16310) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://motionshot.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](#) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.16310) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://motionshot.github.io/)
 
 * **[ICCV 2025]** ***TITAN‑Guide:*** *Taming Inference‑Time Alignment for Guided Text‑to‑Video Diffusion Models*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.00289) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://titanguide.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](#) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.00289) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://titanguide.github.io/)
 
 * **[ICCV 2025]** ***Video‑T1:*** *Test‑Time Scaling for Video Generation*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.18942) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liuff19.github.io/Video-T1/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/liuff19/Video-T1) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](#)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.18942) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liuff19.github.io/Video-T1/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/liuff19/Video-T1)
 
 * **[ICCV 2025]** ***AnimateYourMesh:*** *Feed‑Forward 4D Foundation Model for Text‑Driven Mesh Animation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.09982) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://animateanymesh.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tymochko/AnimateAnyMesh) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/JarrentWu/DyMesh_32f)
@@ -1531,6 +1531,20 @@
 * **[AAAI 2026]** ***FantasyTalking2:*** *FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.11255) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-talking2/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-talking2) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/papers/2508.11255)
 
+* **[CVPR 2026 (Findings)]** ***UniTalking:*** *A Unified Audio-Video Framework for Talking Portrait Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.01418)
+
+* **[CVPR 2026]** ***Avatar Forcing:*** *Real-Time Interactive Head Avatar Generation for Natural Conversation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.00664) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taekyungki.github.io/AvatarForcing/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TaekyungKi/AvatarForcing)
+
+* **[CVPR 2026]** ***ActAvatar:*** *Temporally-Aware Precise Action Control for Talking Avatars*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.19546) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziqiaopeng.github.io/ActAvatar/)
+
+* **[CVPR 2026]** ***StreamAvatar:*** *Streaming Diffusion Models for Real-Time Interactive Human Avatars*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.22065) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://streamavatar.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/StreamAvatar/streamavatar.github.io)
+
+* **[CVPR 2026]** ***UniAVGen:*** *Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.03334) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mcg-nju.github.io/UniAVGen/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MCG-NJU/Sora2-mini) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MCG-NJU/UniAVGen)
+
+* **[CVPR 2026]** ***UniLS:*** *End-to-End Audio-Driven Avatars for Unified Listening and Speaking*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.09327) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shandaai.github.io/project_mio_page/)
+
+* **[CVPR 2026]** ***EmoDiffTalk:*** *Emotion-aware Diffusion for Editable 3D Gaussian Talking Head*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.05991) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liuchang883.github.io/EmoDiffTalk/)
+
 </details>
 
 <details>
@@ -1695,6 +1709,18 @@
 * **[AAAI 2026]** ***FantasyHSI:*** *Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2509.01232.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-hsi/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-hsi)
 
+* **[CVPR 2026]** ***UniAnimate-DiT:*** *Human Image Animation with Large-Scale Video Diffusion Transformer*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.11289) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ali-vilab/UniAnimate-DiT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ZheWang123/UniAnimate-DiT)
+
+* **[CVPR 2026]** ***MultiAnimate:*** *Pose-Guided Image Animation Made Extensible*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.21581) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hyc001.github.io/MultiAnimate/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hyc001/MultiAnimate) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/N00B0DY/MultiAnimate)
+
+* **[CVPR 2026]** ***Sketch2Colab:*** *Sketch-Conditioned Multi-Human Animation via Controllable Flow Distillation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.02190)
+
+* **[CVPR 2026]** ***Ani3DHuman:*** *Photorealistic 3D Human Animation with Self-guided Stochastic Sampling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.19089) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/qiisun/ani3dhuman)
+
+* **[CVPR 2026]** ***One-to-All Animation:*** *Alignment-Free Character Animation and Image Pose Transfer*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.22940) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ssj9596.github.io/one-to-all-animation-project/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ssj9596/One-to-All-Animation) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MochunniaN1/One-to-All-14b)
+
+* **[CVPR 2026]** ***Vanast:*** *Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://hyunsoocha.github.io/)
+
 </details>
 
 <details>
@@ -1858,6 +1884,42 @@
 
 * **[AAAI 2026]** ***Turbo-VAED:*** *Fast and Stable Transfer of Video-VAEs to Mobile Devices*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.09136.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hustvl/Turbo-VAED) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/hustvl/Turbo-VAED)
+
+* **[CVPR 2026]** *Adaptive Hybrid Caching for Efficient Text-to-Video Diffusion Model Acceleration*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.12691)
+
+* **[CVPR 2026]** *FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.01685)
+
+* **[CVPR 2026]** *Transition Matching Distillation for Fast Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.09881) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.nvidia.com/labs/genair/tmd/)
+
+* **[CVPR 2026]** *Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.04678) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reward-forcing.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JaydenLyh/Reward-Forcing) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/JaydenLu666/Reward-Forcing-T2V-1.3B)
+* 
+* **[CVPR 2026]** *Dual-Granularity Memory for Efficient Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-Entry-orange?style=for-the-badge)](https://lins-lab.github.io/publications/)
+
+* **[CVPR 2026 Findings]** *S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.12719)
+
+* **[CVPR 2026]** *FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.16900) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://francis-rings.github.io/FlashPortrait/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/FlashPortrait) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/FrancisRing/FlashPortrait)
+* 
+* **[CVPR 2026]** *FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance*<br> [![Paper](https://img.shields.io/badge/Paper-Entry-orange?style=for-the-badge)](https://chenhsing.github.io/)
+
+* **[CVPR 2026]** *Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.01623) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hanjq17.github.io/Spectrum/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hanjq17/Spectrum)
+
+* **[CVPR 2026]** *SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.24208) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/vita-epfl/SenCache)
+
+* **[CVPR 2026]** *SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.18993) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jiwoogit.github.io/SeaCache/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jiwoogit/SeaCache)
+
+* **[CVPR 2026]** *Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.22654) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/argsss/DPCache)
+
+* **[CVPR 2026]** *TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.02943)
+
+* **[CVPR 2026]** *Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.04789) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chengtao-lv/LightForcing)
+
+* **[CVPR 2026]** *Accelerating Text-to-Video Generation with Calibrated Sparse Attention*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.05503)
+
+* **[CVPR 2026]** *SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.02883)
+
+* **[CVPR 2026]** *DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.16968)
+
+* **[CVPR 2026]** *Frequency-Aware Error-Bounded Caching for Accelerating Diffusion Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.05315) 
 
 </details>
 
@@ -2029,6 +2091,20 @@
 
 * **[AAAI 2026]** *VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.21059) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zai-org/VisionReward) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/zai-org/VisionReward-Video)
+
+* **[CVPR 2026]** *Inference-time Physics Alignment of Video Generative Models with Latent World Models*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.10553) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/facebookresearch/WMReward)
+
+* **[CVPR 2026]** *Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.16669) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://video-as-answer.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KlingAIResearch/VANS) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/KlingTeam/VANS)
+
+* **[CVPR 2026]** *MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.20629) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SHI-Labs/MapReduce-LoRA) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/shi-labs/FLUX.1-dev-MapReduce-LoRA-merge-k4)
+
+* **[CVPR 2026]** *PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.03505)
+
+* **[CVPR 2026]** *PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.24551) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caiyuanhao1998.github.io/project/PhyGDPO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/caiyuanhao1998/Open-PhyGDPO)
+
+* **[CVPR 2026]** *Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.20647) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diverse-video.github.io/)
+
+* **[CVPR 2026]** *FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.00159)
 
 </details>
 
