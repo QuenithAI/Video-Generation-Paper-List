@@ -101,6 +101,13 @@
 * **[AAAI 2026]** ***EmoVid:*** *A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.11002) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zane-zyqiu.github.io/EmoVid)
 
+
+* **[CVPR 2026]** ***ID-Composer: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation***<br>
+    [![ArXiv](https://img.shields.io/badge/arXiv-PDF-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2511.00511)
+    [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/paulpanwang/ID-Composer)
+    [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://angericky.github.io/ID-Composer)
+
+
 * **[CVPR 2026]** *StreamDiT: Real-Time Streaming Text-to-Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.03745) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cumulo-autumn.github.io/StreamDiT/)
 
