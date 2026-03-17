@@ -142,9 +142,6 @@
 * **[CVPR 2026]** *Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.21929)
 
-* **[CVPR 2026]** *Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation*<br>
-[![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.01677) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hgzn258.github.io/SCAR/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Haodong-Yan/SCAR)
-
 * **[CVPR 2026 Findings]** *BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.02816)
 
@@ -1879,6 +1876,8 @@
 * **[CVPR 2026]** ***Ani3DHuman:*** *Photorealistic 3D Human Animation with Self-guided Stochastic Sampling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.19089) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/qiisun/ani3dhuman)
 
 * **[CVPR 2026]** ***One-to-All Animation:*** *Alignment-Free Character Animation and Image Pose Transfer*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.22940) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ssj9596.github.io/one-to-all-animation-project/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ssj9596/One-to-All-Animation) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MochunniaN1/One-to-All-14b)
+
+* **[CVPR 2026]** *Open-world Hand-Object Interaction Video Generation Based on Structure and Contact-aware Representation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.01677) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hgzn258.github.io/SCAR/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Haodong-Yan/SCAR)
 
 * **[CVPR 2026]** ***Vanast:*** *Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://hyunsoocha.github.io/)
 
