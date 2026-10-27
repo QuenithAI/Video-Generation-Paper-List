@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="YOUR_OFFICIAL_WEBSITE_URL">
+  <a href="https://quenithai.github.io/">
     <img src="assets/logo_run_cn.png" alt="QuenithAI Logo" width="200" height="200">
   </a>
 </div>
@@ -21,7 +21,7 @@
 >
 > Your contributions are also vital—feel free to [open an issue](https://github.com/QuenithAI/Video-Generation-Paper-List/issues) or [submit a pull request](https://github.com/QuenithAI/Video-Generation-Paper-List/pulls) to become a collaborator of this repository. We expect your participation!
 > 
->  If you require expert 1-on-1 guidance on your submissions to top-tier conferences and journals, we invite you to **contact us via [WeChat](assets/wechat.jpg) or [E-mail]((mailto:christzhaung@gmail.com))**.
+>  If you require expert 1-on-1 guidance on your submissions to top-tier conferences and journals, we invite you to **contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:christzhaung@gmail.com)**.
 >
 >
 > ---
@@ -36,7 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
-- **(Mar 14th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
+- **(Oct 27th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
 - **(Mar 9th, 2026)**: We have updated all accepted papers in **CVPR 2026**.
 - **(Nov 19th, 2025)**: We have updated all accepted papers in **AAAI 2026**.
 - **(Sep 13th, 2025)**: Add a new direction: [🎯 Reinforcement Learning for Video Generation](#-reinforcement-learning-for-video-generation).
@@ -169,8 +169,6 @@
 
 * **[ICLR 2026]** ***JDM:*** *Joint Distribution Modeling for Fine-Grained Text-to-Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ug8NyyagOw)
 
-* **[ICLR 2026]** *Towards One-step Causal Video Generation via Adversarial Self-Distillation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=P3O0fNmnWa) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/BigAandSmallq/SAD)
-
 * **[ICLR 2026]** ***TS-Attn:*** *Temporal-wise Separable Attention for Multi-Event Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QixNhagZ9t)
 
 * **[ICLR 2026]** *Jailbreaking on Text-to-Video Models via Scene Splitting Strategy*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=iFGFW3sF2M) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://velpegor.github.io/SceneSplit/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/velpegor/SceneSplit)
@@ -186,6 +184,58 @@
 * **[ICLR 2026]** ***Kaleido:*** *Open-Sourced Multi-Subject Reference Video Generation Model*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=l8PM2RukoP) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zai-org/Kaleido) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/zai-org/Kaleido-14B-S2V)
 
 * **[ICLR 2026]** ***Cosmos-Eval:*** *Towards Explainable Evaluation of Physics and Semantics in Text-to-Video Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KdYKSOY9MP)
+
+* **[ICLR 2026]** ***LikePhys:*** *Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6UJf6B8RZ8) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yuanjianhao508.github.io/LikePhys/)
+
+* **[ICLR 2026]** ***SteinsGate:*** *Adding Causality to Diffusions for Long Video Generation via Path Integral*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8WS5nDWIWE)
+
+* **[ICLR 2026]** *Video-GPT via Next Clip Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=E0ZAcqy9TB) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhuangshaobin/Video-GPT)
+
+* **[ICLR 2026]** ***Model Already Knows the Best Noise:*** *Bayesian Active Noise Selection via Attention in Video Diffusion Model*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=11dzFZ2UM1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anse-project.github.io/anse-project/)
+
+* **[ICLR 2026]** ***MoAlign:*** *Motion-Centric Representation Alignment for Video Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OR0ySm4l9h)
+
+* **[ICLR 2026]** ***PhyWorldBench:*** *A Comprehensive Evaluation of Physical Realism in Text-to-Video Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=rlZeILv3fm)
+
+* **[ICLR 2026]** ***NeRV-Diffusion:*** *Diffuse Implicit Neural Representation for Video Synthesis*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tX0cSOvBnS) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryx19th.github.io/nerv-diffusion/)
+
+* **[ICLR 2026]** *Video Unlearning via Low-Rank Refusal Vector*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=U1XBHtXl7Y) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pinlab.org/video-unlearning)
+
+* **[ICLR 2026]** *Uniform Discrete Diffusion with Metric Path for Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GFU5yCbILk)
+
+* **[ICLR 2026]** ***CineTrans:*** *Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=955hVLJdfP) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://uknowsth.github.io/CineTrans/)
+
+* **[ICLR 2026]** *Mixture of Contexts for Long Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=y6XJZlEC2x) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://primecai.github.io/moc/)
+
+* **[ICLR 2026]** *Improving Autoregressive Video Modeling with History Understanding*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kd2V5Bkw1D)
+
+* **[ICLR 2026]** ***VideoPhy-2:*** *A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=HA8KSQW7SO) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://videophy2.github.io/)
+
+* **[ICLR 2026]** ***MicroVerse:*** *A Preliminary Exploration Toward a Micro-World Simulation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7pQv7qitFV) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FreedomIntelligence/MicroVerse)
+
+* **[ICLR 2026]** ***Captain Cinema:*** *Towards Short Movie Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zlNZBxQZIC) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thecinema.ai)
+
+* **[ICLR 2026]** ***Generate Any Scene:*** *Scene Graph Driven Data Synthesis for Visual Generation Training*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EwdWR6lfvW) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://uwgzq.github.io/papers/GAS/)
+
+* **[ICLR 2026]** *Rethinking Global Text Conditioning in Diffusion Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=65Ai8mLfjI)
+
+* **[ICLR 2026]** *Stochastic Self-Guidance for Training-Free Enhancement of Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9RyRIyzgT5) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s2guidance.github.io/)
+
+* **[ICLR 2026]** ***NExT-OMNI:*** *Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=odatOcBi61)
+
+* **[ICLR 2026]** *Weak-to-Strong Diffusion with Reflection*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tg19FVh3p1)
+
+* **[ICLR 2026]** ***Lumos-1:*** *On Autoregressive Video Generation with Discrete Diffusion from a Unified Model Perspective*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.08801) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alibaba-damo-academy/Lumos)
+
+* **[ICLR 2026]** ***FilMaster:*** *Bridging Cinematic Principles and Generative AI for Automated Film Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.18899) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://filmaster-ai.github.io)
+
+* **[ICLR 2026]** ***NarrLV:*** *Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.11245)
+
+* **[ICLR 2026]** ***SIGMark:*** *Scalable In-Generation Watermark with Blind Extraction for Video Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tKyAD2LhnI) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeremyzhao1998.github.io/SIGMark-release/)
+
+* **[ICLR 2026]** ***ConvT3:*** *Structured State Kernels for Convolutional State Space Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=w7csRoB5CO)
+
+* **[ICLR 2026]** ***VSF:*** *Simple, Efficient, and Effective Negative Guidance in Few-Step Image Generation Models By Value Sign Flip*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=W2NINfoVtN) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/weathon/vsf)
 
 
 
@@ -325,10 +375,7 @@
 - [Taming Diffusion Transformer for Real-Time Mobile Video Generation](http://arxiv.org/abs/2507.13343v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://snap-research.github.io/mobile_video_dit/)
 - [LoViC: Efficient Long Video Generation with Context Compression](http://arxiv.org/abs/2507.12952v1)
 - [World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving](http://arxiv.org/abs/2507.12762v1)
-- [NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models](http://arxiv.org/abs/2507.11245v2)
-- [Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective](http://arxiv.org/abs/2507.08801v1) [![GitHub Stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social)](https://github.com/alibaba-damo-academy/Lumos)
 - [Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers](http://arxiv.org/abs/2507.08422v1)
-- [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](http://arxiv.org/abs/2507.07982v1)
 - [Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions](http://arxiv.org/abs/2507.07978v1)
 - [Scaling RL to Long Videos](http://arxiv.org/abs/2507.07966v3)
 - [PromptTea: Let Prompts Tell TeaCache the Optimal Threshold](http://arxiv.org/abs/2507.06739v1)
@@ -343,18 +390,14 @@
 - [Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation](http://arxiv.org/abs/2507.02608v1)
 - [LongAnimation: Long Animation Generation with Dynamic Global-Local Memory](http://arxiv.org/abs/2507.01945v2) [![GitHub Stars](https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social)](https://github.com/CN-makers/LongAnimation) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cn-makers.github.io/long_animation_web/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/CNcreator0331/LongAnimation)
 - [LLM-based Realistic Safety-Critical Driving Video Generation](http://arxiv.org/abs/2507.01264v1)
-- [Geometry-aware 4D Video Generation for Robot Manipulation](http://arxiv.org/abs/2507.01099v1)
 - [Populate-A-Scene: Affordance-Aware Human Video Generation](http://arxiv.org/abs/2507.00334v1)
 - [FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion](http://arxiv.org/abs/2507.00162v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://freelongvideo.github.io)
 - [Epona: Autoregressive Diffusion World Model for Autonomous Driving](http://arxiv.org/abs/2506.24113v1) [![GitHub Stars](https://img.shields.io/github/stars/Kevin-thu/Epona?style=social)](https://github.com/Kevin-thu/Epona) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://kevin-thu.github.io/Epona/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Kevin-thu/Epona)
-- [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](http://arxiv.org/abs/2506.23858v1) [![GitHub Stars](https://img.shields.io/github/stars/KwaiVGI/VMoBA?style=social)](https://github.com/KwaiVGI/VMoBA)
 - [SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation](http://arxiv.org/abs/2506.23690v1)
 - [Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation](http://arxiv.org/abs/2506.19852v1)
 - [GenHSI: Controllable Generation of Human-Scene Interaction Videos](http://arxiv.org/abs/2506.19840v1)
-- [SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution](http://arxiv.org/abs/2506.19838v2)
 - [Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation](http://arxiv.org/abs/2506.19348v1)
 - [VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory](http://arxiv.org/abs/2506.18903v2) [![GitHub Stars](https://img.shields.io/github/stars/runjiali-rl/vmem?style=social)](https://github.com/runjiali-rl/vmem)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://v-mem.github.io/)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/liguang0115/vmem)
-- [FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation](http://arxiv.org/abs/2506.18899v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://filmaster-ai.github.io)
 - [RDPO: Real Data Preference Optimization for Physics Consistency Video Generation](http://arxiv.org/abs/2506.18655v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://wwenxu.github.io/RDPO)
 - [Emergent Temporal Correspondences from Video Diffusion Transformers](http://arxiv.org/abs/2506.17220v2) [![GitHub Stars](https://img.shields.io/github/stars/cvlab-kaist/DiffTrack?style=social)](https://github.com/cvlab-kaist/DiffTrack)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cvlab-kaist.github.io/DiffTrack/)
 - [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](http://arxiv.org/abs/2506.17201v1) [![GitHub Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan-GameCraft-1.0?style=social)](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hunyuan-gamecraft.github.io/)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0)
@@ -373,7 +416,6 @@
 - [From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models](http://arxiv.org/abs/2506.07280v2) [![GitHub Stars](https://img.shields.io/github/stars/PabloAcuaaviva/Gen2Gen?style=social)](https://github.com/PabloAcuaaviva/Gen2Gen)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://pabloacuaviva.github.io/Gen2Gen/)
 - [Hi‑VAE: Efficient Video Autoencoding with Global and Detailed Motion](http://arxiv.org/abs/2506.07136v1)
 - [ContentV: Efficient Training of Video Generation Models with Limited Compute](http://arxiv.org/abs/2506.05343v2) [![GitHub Stars](https://img.shields.io/github/stars/bytedance/ContentV?style=social)](https://github.com/bytedance/ContentV)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://contentv.github.io)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/ByteDance/ContentV-8B)
-- [Astraea: A GPU‑Oriented Token‑wise Acceleration Framework for Video Diffusion Transformers](http://arxiv.org/abs/2506.05096v3)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://astraea-project.github.io/ASTRAEA/)
 - [FPSAttention: Training-Aware FP8 and Sparsity Co‑Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v2)
 - [LayerFlow: A Unified Model for Layer‑Aware Video Generation](http://arxiv.org/abs/2506.04228v1) [![GitHub Stars](https://img.shields.io/github/stars/SihuiJi/LayerFlow?style=social)](https://github.com/SihuiJi/LayerFlow)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://sihuiji.github.io/LayerFlow-Page/)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/zjuJish/LayerFlow)
 - [FullDiT2: Efficient In‑Context Conditioning for Video Diffusion Transformers](http://arxiv.org/abs/2506.04213v2)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://fulldit2.github.io/)
@@ -385,7 +427,6 @@
 - [Sparse‑vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers](http://arxiv.org/abs/2506.03065v1) [![GitHub Stars](https://img.shields.io/github/stars/Peyton-Chen/Sparse-vDiT?style=social)](https://github.com/Peyton-Chen/Sparse-vDiT)
 - [LumosFlow: Motion‑Guided Long Video Generation](http://arxiv.org/abs/2506.02497v1)
 - [Motion aware video generative model](http://arxiv.org/abs/2506.02244v1)
-- [Many‑for‑Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks](http://arxiv.org/abs/2506.01758v2)
 - [OpenS2V‑Nexus: A Detailed Benchmark and Million‑Scale Dataset for Subject‑to‑Video Generation](https://arxiv.org/abs/2505.20292)
 - [Wan: Open and Advanced Large‑Scale Video Generative Models](http://arxiv.org/abs/2503.20314v2)
 
@@ -674,7 +715,6 @@
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
 - [StreamDiT: Real-Time Streaming Text-to-Video Generation](https://arxiv.org/abs/2507.03745) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cumulo-autumn.github.io/StreamDiT/)
-- [SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer](https://arxiv.org/abs/2509.24695) [![GitHub Stars](https://img.shields.io/github/stars/NVlabs/Sana?style=social)](https://github.com/NVlabs/Sana) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://nvlabs.github.io/Sana/Video) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_480p)
 - [FlashVideo: A Framework for Swift Inference in Text-to-Video Generation](http://arxiv.org/abs/2401.00869v1)
 - [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](http://arxiv.org/abs/2312.15770v1)
 - [Photorealistic Video Generation with Diffusion Models](http://arxiv.org/abs/2312.06662v1)
@@ -736,8 +776,6 @@
 
 * **[ICLR 2026]** ***MAGREF:*** *Masked Guidance for Any-Reference Video Generation with Subject Disentanglement*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Nbl43eAVaE) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://magref-video.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MAGREF-Video/MAGREF) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MAGREF-Video/MAGREF)
 
-* **[ICLR 2026]** ***MotionWeaver:*** *Holistic 4D-Anchored Framework for Multi-Humanoid Image Animation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KjlLwRsiUE) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytecat-bot.github.io/MotionWeaver/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ByteCat-bot/MotionWeaver) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-lightgrey?style=for-the-badge)
-
 * **[ICLR 2026]** *Anchor Frame Bridging for Coherent First-Last Frame Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=isNjWnVsUR) ![Project Page](https://img.shields.io/badge/Project-Page-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-lightgrey?style=for-the-badge)
 
 * **[ICLR 2026]** ***LumosX:*** *Relate Any Identities with Their Attributes for Personalized Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=r5o6PWgzav) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jiazheng-xing.github.io/lumosx-home/) ![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-lightgrey?style=for-the-badge)
@@ -747,6 +785,18 @@
 * **[ICLR 2026]** ***Beyond Skeletons:*** *Learning Animation Directly from Driving Videos with Same2X Training Strategy*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=HdEpZE3wFa) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://directanimator.github.io/) ![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-lightgrey?style=for-the-badge)
 
 * **[ICLR 2026]** *Unleashing Guidance Without Classifiers for Human-Object Interaction Animation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7lgQernr2Z) ![Project Page](https://img.shields.io/badge/Project-Page-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Repo-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-lightgrey?style=for-the-badge)
+
+* **[ICLR 2026]** ***Phantom-Data:*** *Towards a General Subject-Consistent Video Generation Dataset*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=IjqKXnzUXx)
+
+* **[ICLR 2026]** *Arbitrary Generative Video Interpolation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=eKGkb4cFRe) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mcg-nju.github.io/ArbInterp-Web/)
+
+* **[ICLR 2026]** *Realtime Video Frame Interpolation using One-Step Diffusion Sampling*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OiWyf1BNtC) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mayongrui.github.io/RDVFI/)
+
+* **[ICLR 2026]** *Motion Prior Distillation in Time Reversal Sampling for Generative Inbetweening*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GRElsj9W2t) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vvsjeon.github.io/MPD/)
+
+* **[ICLR 2026]** *Composition of Memory Experts for Diffusion World Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=sUEdpZCHdp) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wiqzard.github.io/composition-of-memory-experts/)
+
+* **[ICLR 2026]** ***Latent Particle World Models:*** *Self-supervised Object-centric Stochastic Dynamics Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lTaPtGiUUc) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taldatech.github.io/lpwm-web)
 
 
 
@@ -835,7 +885,6 @@
 
 - [Waver: Wave Your Way to Lifelike Video Generation](https://arxiv.org/pdf/2508.15761) [![GitHub Stars](https://img.shields.io/github/stars/FoundationVision/Waver?style=social)](https://github.com/FoundationVision/Waver)
 - [FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control](https://arxiv.org/pdf/2510.08527) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://bestzzhang.github.io/FlexTraj/)
-- [UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/pdf/2510.08377) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://congwei1230.github.io/UniVideo/)
 - [Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation](https://arxiv.org/pdf/2511.14993) [![GitHub Stars](https://img.shields.io/github/stars/kandinskylab/kandinsky-5?style=social)](https://github.com/kandinskylab/kandinsky-5) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/kandinskylab/Kandinsky-5.0-I2V-Pro-sft-5s-Diffusers)
 - [Physics‑Grounded Motion Forecasting via Equation Discovery for Trajectory‑Guided Image‑to‑Video Generation](http://arxiv.org/abs/2507.06830v1)
 - [Enhancing Motion Dynamics of Image‑to‑Video Models via Adaptive Low‑Pass Guidance](http://arxiv.org/abs/2506.08456v1) [![GitHub Stars](https://img.shields.io/github/stars/choi403/ALG?style=social)](https://github.com/choi403/ALG)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://choi403.github.io/ALG/)
@@ -1053,6 +1102,24 @@
 
 * **[ICLR 2026]** ***FastVMT:*** *Eliminating Redundancy in Video Motion Transfer*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.05551) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fastvmt.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mayuelala/FastVMT)
 
+* **[ICLR 2026]** ***SeedVR2:*** *One-Step Video Restoration via Diffusion Adversarial Post-Training*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=x1FRyko9eC) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iceclear.github.io/projects/seedvr2/)
+
+* **[ICLR 2026]** ***LVTINO:*** *LAtent Video consisTency INverse sOlver for High Definition Video Restoration*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8SyEcWVe10) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://latino-pro.github.io/LVTINO/)
+
+* **[ICLR 2026]** ***IVEBench:*** *Modern Benchmark Suite for Instruction-Guided Video Editing Assessment*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=n0wVbCxcob) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ryanchenyn.github.io/projects/IVEBench/)
+
+* **[ICLR 2026]** ***Vivid-VR:*** *Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YV5Zgv8pdg) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/csbhr/Vivid-VR)
+
+* **[ICLR 2026]** ***FreeViS:*** *Training-free Video Stylization with Inconsistent References*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SiYNm21ifi) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xujiacong.github.io/FreeViS/)
+
+* **[ICLR 2026]** ***GenCompositor:*** *Generative Video Compositing with Diffusion Transformer*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ynim5u2N4i) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gencompositor.github.io/)
+
+* **[ICLR 2026]** *Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=U2SJE6W3wT)
+
+* **[ICLR 2026]** *Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=N1DfzTVuUY) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](http://zxyin.github.io/ColorCtrl)
+
+* **[ICLR 2026]** ***SimpleGVR:*** *A Simple Baseline for Latent-Cascaded Generative Video Super-Resolution*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.19838) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simplegvr.github.io/)
+
 </details>
 
 <details>
@@ -1164,15 +1231,12 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-- [EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning](https://arxiv.org/pdf/2509.20360.pdf) [![GitHub Stars](https://img.shields.io/github/stars/adobe-research/EditVerse?style=social)](https://github.com/adobe-research/EditVerse) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/sooyek/EditVerseBench)
 - [OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models](https://arxiv.org/pdf/2509.17627.pdf) [![GitHub Stars](https://img.shields.io/github/stars/Phantom-video/OmniInsert?style=social)](https://github.com/Phantom-video/OmniInsert) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://phantom-video.github.io/OmniInsert/)
-- [UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/pdf/2510.08377.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://congwei1230.github.io/UniVideo/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/KwaiVGI/UniVideo)
 - [InstructX: Towards Unified Visual Editing with MLLM Guidance](https://arxiv.org/pdf/2510.08485.pdf) [![GitHub Stars](https://img.shields.io/github/stars/MC-E/InstructX?style=social)](https://github.com/MC-E/InstructX) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://mc-e.github.io/project/InstructX/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/Simons212/VIE-Bench)
 - [Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset](https://arxiv.org/pdf/2510.15742.pdf) [![GitHub Stars](https://img.shields.io/github/stars/EzioBy/Ditto?style=social)](https://github.com/EzioBy/Ditto) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/QingyanBai/Ditto_models)
 - [ConsistEdit: Highly Consistent and Precise Training-free Visual Editing](https://arxiv.org/pdf/2510.17803.pdf) [![GitHub Stars](https://img.shields.io/github/stars/zxYin/ConsistEdit_Code?style=social)](https://github.com/zxYin/ConsistEdit_Code) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://zxyin.github.io/ConsistEdit)
 - [First Frame Is the Place to Go for Video Content Customization](https://arxiv.org/pdf/2511.15700.pdf) [![GitHub Stars](https://img.shields.io/github/stars/zli12321/FFGO-Video-Customization?style=social)](https://github.com/zli12321/FFGO-Video-Customization) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://firstframego.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Video-Customization/FFGO-Lora-Adapter)
 - [Consistent Video Editing as Flow‑Driven Image‑to‑Video Generation](http://arxiv.org/abs/2506.07713v2)
-- [UNIC: Unified In‑Context Video Editing](http://arxiv.org/abs/2506.04216v1)
 - [DreamVE: Unified Instruction‑based Image and Video Editing](http://arxiv.org/abs/2508.06080v1)
 - [Controllable Pedestrian Video Editing for Multi‑View Driving Scenarios via Motion Sequence](http://arxiv.org/abs/2508.00299v1)
 - [Low‑Cost Test‑Time Adaptation for Robust Video Editing](http://arxiv.org/abs/2507.21858v1)
@@ -1181,7 +1245,6 @@
 - [Shape‑for‑Motion: Precise and Consistent Video Editing with 3D Proxy](http://arxiv.org/abs/2506.22432v1)
 - [DFVEdit: Conditional Delta Flow Vector for Zero‑shot Video Editing](http://arxiv.org/abs/2506.20967v2)
 - [Good Noise Makes Good Edits: A Training‑Free Diffusion‑Based Video Editing with Image and Text Prompts](http://arxiv.org/abs/2506.12520v1)
-- [LoRA‑Edit: Controllable First‑Frame‑Guided Video Editing via Mask‑Aware LoRA Fine‑Tuning](http://arxiv.org/abs/2506.10082v3) [![GitHub Stars](https://img.shields.io/github/stars/cjeen/LoRAEdit?style=social)](https://github.com/cjeen/LoRAEdit)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cjeen.github.io/LoraEditPaper/)
 - [TV‑LiVE: Training‑Free, Text‑Guided Video Editing via Layer Informed Vitality Exploitation](http://arxiv.org/abs/2506.07205v1)
 - [FADE: Frequency‑Aware Diffusion Model Factorization for Video Editing](http://arxiv.org/abs/2506.05934v1)
 - [FlowDirector: Training‑Free Flow Steering for Precise Text‑to‑Video Editing](http://arxiv.org/abs/2506.05046v1) [![GitHub Stars](https://img.shields.io/github/stars/Westlake-AGI-Lab/FlowDirector?style=social)](https://github.com/Westlake-AGI-Lab/FlowDirector)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://flowdirector-edit.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/Westlake-AGI-Lab/FlowDirector)
@@ -1463,6 +1526,54 @@
 
 * **[ICLR 2026]** ***LightCtrl:*** *Training-free Controllable Video Relighting*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5ft8vd9rwc) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/GVCLab/LightCtrl)
 
+* **[ICLR 2026]** ***OmniWorld:*** *A Multi-Domain and Multi-Modal Dataset for 4D World Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1y1YFKb9pp) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yangzhou24.github.io/OmniWorld/)
+
+* **[ICLR 2026]** ***Astra:*** *General Interactive World Model with Autoregressive Denoising*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8UZpmrxoLG) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eternalevan.github.io/Astra-project/)
+
+* **[ICLR 2026]** ***FantasyWorld:*** *Geometry-Consistent World Modeling via Unified Video and 3D Prediction*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3q9vHEqsNx) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-world/)
+
+* **[ICLR 2026]** ***WorldGym:*** *World Model as An Environment for Policy Evaluation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hidBHy1CAw) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://world-model-eval.github.io/abstract.html)
+
+* **[ICLR 2026]** ***Cosmos Policy:*** *Fine-Tuning Video Models for Visuomotor Control and Planning*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wPEIStHxYH) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.nvidia.com/labs/dir/cosmos-policy/)
+
+* **[ICLR 2026]** ***World-In-World:*** *World Models in a Closed-Loop World*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=yDmb7xAfeb) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://world-in-world.github.io/)
+
+* **[ICLR 2026]** ***Vid2World:*** *Crafting Video Diffusion Models to Interactive World Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pFyzqbUiF9)
+
+* **[ICLR 2026]** ***ViPRA:*** *Video Prediction for Robot Actions*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=w3Ik8HUyTT) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vipra-project.github.io/)
+
+* **[ICLR 2026]** *Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tv0Sz8A9Tc) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rigvid-robot.github.io/)
+
+* **[ICLR 2026]** ***DrivingGen:*** *A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OrgL5DsU0f) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drivinggen-bench.github.io/)
+
+* **[ICLR 2026]** ***Ctrl-World:*** *A Controllable Generative World Model for Robot Manipulation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=748bHL2BAv)
+
+* **[ICLR 2026]** ***WMPO:*** *World Model-based Policy Optimization for Vision-Language-Action Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=qE2FyvRvuF)
+
+* **[ICLR 2026]** ***Genie Envisioner:*** *A Unified World Foundation Platform for Robotic Manipulation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fHLtSxDFKC)
+
+* **[ICLR 2026]** *Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KxvboPqav6) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neuralgaussianforcefield.github.io/)
+
+* **[ICLR 2026]** ***WorldSplat:*** *Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KWeX6tYno6)
+
+* **[ICLR 2026]** *Compositional Visual Planning via Inference-Time Diffusion Scaling*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EEONns7ae4) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://comp-visual-planning.github.io/)
+
+* **[ICLR 2026]** *Self-Improving Loops for Visual Robotic Planning*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SzUgx5r3wy)
+
+* **[ICLR 2026]** *Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DdrsHWobR1)
+
+* **[ICLR 2026]** *Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=z3cFADf6zZ) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wm-research.github.io/Dream4Drive/)
+
+* **[ICLR 2026]** *Product of Experts for Visual Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dTYbqgvZmc)
+
+* **[ICLR 2026]** ***CTRL&SHIFT:*** *High-quality Geometry-Aware Object Manipulation in Visual Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=T6T0JUgGFQ)
+
+* **[ICLR 2026]** *Geometry-aware 4D Video Generation for Robot Manipulation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.01099) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robot4dgen.github.io/)
+
+* **[ICLR 2026]** ***Geometry Forcing:*** *Marrying Video Diffusion and 3D Representation for Consistent World Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.07982) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://geometryforcing.github.io/)
+
+* **[ICLR 2026]** *Compositional Diffusion with Guided search for Long-Horizon Planning*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=b8avf4F2hn) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cdgsearch.github.io/)
+
 </details>
 
 <details>
@@ -1709,6 +1820,12 @@
 
 * **[ICLR 2026]** ***KeyVID:*** *Keyframe-Aware Video Diffusion for Audio-Visual Animation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=oijKOpfSmX) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xingruiwang.github.io/projects/KeyVID/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/XingruiWang/KeyVID)
 
+* **[ICLR 2026]** ***JavisDiT++:*** *Unified Modeling and Optimization for Joint Audio-Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hRRWfFpKRp)
+
+* **[ICLR 2026]** ***JavisDiT:*** *Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=y7HV7KT3Bd)
+
+* **[ICLR 2026]** ***SpeakerVid-5M:*** *A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=U004uqALWl) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dorniwang.github.io/SpeakerVid-5M/)
+
 </details>
 
 <details>
@@ -1893,11 +2010,15 @@
 
 * **[ICLR 2026]** ***Durian:*** *Dual Reference Image-Guided Portrait Animation with Attribute Transfer*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tz5GRv9Vzu) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hyunsoocha.github.io/durian/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/snuvclab/durian) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face_N%2FA-lightgrey?style=for-the-badge)
 
-* **[ICLR 2026]** ***AUHead:*** *Realistic Emotional Talking Head Generation via Action Units Control*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dmzlAUkulz) ![Project Page](https://img.shields.io/badge/Project-Page_N%2FA-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/laura990501/AUHead_ICLR) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face_N%2FA-lightgrey?style=for-the-badge)
-
 * **[ICLR 2026]** ***MotionWeaver:*** *Holistic 4D-Anchored Framework for Multi-Humanoid Image Animation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KjlLwRsiUE) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/ByteCat-bot/MotionWeaver) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ByteCat-bot/MotionWeaver) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face_N%2FA-lightgrey?style=for-the-badge)
 
 * **[ICLR 2026]** ***OmniHuman-1.5:*** *Instilling an Active Mind in Avatars via Cognitive Simulation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=80JylHgQn1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnihuman-lab.github.io/v1_5/) ![GitHub](https://img.shields.io/badge/GitHub-Repo_N%2FA-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face_N%2FA-lightgrey?style=for-the-badge)
+
+* **[ICLR 2026]** ***EchoMotion:*** *Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=eflUxFmIhZ) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yuxiaoyang23.github.io/EchoMotion-webpage/)
+
+* **[ICLR 2026]** ***MoSA:*** *Motion-Coherent Human Video Generation via Structure-Appearance Decoupling*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=JKIa2rTxdB) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hywang2002.github.io/MoSA)
+
+* **[ICLR 2026]** ***EgoTwin:*** *Dreaming Body and View in First Person*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QFJkvv3zMi) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://egotwin.pages.dev/)
 
 </details>
 
@@ -2108,8 +2229,6 @@
 
 * **[ICLR 2026]** ***Stable Video Infinity:*** *Infinite-Length Video Generation with Error Recycling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.09212) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stable-video-infinity.github.io/homepage/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/vita-epfl/Stable-Video-Infinity) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/vita-video-gen/svi-model)
 
-* **[ICLR 2026]** ***MotionStream:*** *Real-Time Video Generation with Interactive Motion Controls*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.01266) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joonghyuk.com/motionstream-web/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alex4727/MotionStream)
-
 * **[ICLR 2026]** ***SRDiffusion:*** *Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.19151) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alibaba/SRDiffusion)
 
 * **[ICLR 2026]** ***DVD-Quant:*** *Data-free Video Diffusion Transformers Quantization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.18663) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lhxcs/DVD-Quant)
@@ -2139,6 +2258,46 @@
 * **[ICLR 2026]** ***BLADE:*** *Block-Sparse Attention Meets Step Distillation for Efficient Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=O9J20MsmRl) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziplab.co/BLADE-Homepage/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ziplab/BLADE) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/GYP666/BLADE)
 
 * **[ICLR 2026]** *Towards One-step Causal Video Generation via Adversarial Self-Distillation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=P3O0fNmnWa) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/BigAandSmallq/SAD)
+
+* **[ICLR 2026]** ***TPDiff:*** *Temporal Pyramid Video Diffusion Model*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Eg3KqoI9tS) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://showlab.github.io/TPDiff/)
+
+* **[ICLR 2026]** ***UltraViCo:*** *Breaking Extrapolation Limits in Video Diffusion Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fLLCmC53u9) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thu-ml.github.io/UltraViCo.github.io/)
+
+* **[ICLR 2026]** ***MoGA:*** *Mixture-of-Groups Attention for End-to-End Long Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0hy9kJ1ULB)
+
+* **[ICLR 2026]** ***InfoTok:*** *Adaptive Discrete Video Tokenizer via Information-Theoretic Compression*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=JEYWpFGzvn)
+
+* **[ICLR 2026]** *Scale-wise Distillation of Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Z06LNjqU1g)
+
+* **[ICLR 2026]** ***STORK:*** *Faster Diffusion and Flow Matching Sampling by Resolving both Stiffness and Structure-Dependence*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=CeOIVXMl4r)
+
+* **[ICLR 2026]** ***MHLA:*** *Restoring Expressivity of Linear Attention via Token-Level Multi-Head*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=340QjF3jJP) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](dagroup-pku.github.io/MHLA/)
+
+* **[ICLR 2026]** ***FlowCast:*** *Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gv8R88PVEG)
+
+* **[ICLR 2026]** *Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2uNlM353RI)
+
+* **[ICLR 2026]** ***ScalingCache:*** *Extreme Acceleration of DiTs through Difference Scaling and Dynamic Interval Caching*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uXmbrTlko7)
+
+* **[ICLR 2026]** *Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pt4iKnAm0M)
+
+* **[ICLR 2026]** ***HiCache:*** *A Plug-in Scaled-Hermite Upgrade for Taylor-Style Cache-then-Forecast Diffusion Acceleration*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=faYbbo1KsQ)
+
+* **[ICLR 2026]** ***SLA:*** *Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse–Linear Attention*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=eD8IPvNoZB)
+
+* **[ICLR 2026]** ***Let Features Decide Their Own Solvers:*** *Hybrid Feature Caching for Diffusion Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=URbsHlTK8c) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darrenzheng303.github.io/HyCa.github.io/)
+
+* **[ICLR 2026]** ***ERTACache:*** *Error Rectification and Timesteps Adjustment for Efficient Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=InvyBiYcK5) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/ERTACache)
+
+* **[ICLR 2026]** ***MeanCache:*** *From Instantaneous to Average Velocity for Accelerating Flow Matching Inference*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GMCyL7Xs9R)
+
+* **[ICLR 2026]** ***DiCache:*** *Let Diffusion Model Determine Its Own Cache*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kflYZjGumW) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bujiazi.github.io/dicache.github.io/)
+
+* **[ICLR 2026]** ***Self-Forcing++:*** *Towards Minute-Scale High-Quality Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.02283) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/justincui03/Self-Forcing-Plus-Plus) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://self-forcing-plus-plus.github.io/) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/gdhe17/Self-Forcing)
+
+* **[ICLR 2026]** *Test-Time Training Done Right*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Tb9qAxT3xv) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tianyuanzhang.com/projects/ttt-done-right/)
+
+* **[ICLR 2026]** ***FastFlow:*** *Accelerating The Generative Flow Matching Models with Bandit Inference*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wWkyL8D9xd)
 
 
 </details>
@@ -2230,11 +2389,7 @@
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
 - [DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder](https://huggingface.co/papers/2509.25182) [![GitHub Stars](https://img.shields.io/github/stars/dc-ai-projects/DC-VideoGen?style=social)](https://github.com/dc-ai-projects/DC-VideoGen)
-- [LongLive: Real-time Interactive Long Video Generation](https://huggingface.co/papers/2509.22622) [![GitHub Stars](https://img.shields.io/github/stars/NVlabs/LongLive?style=social)](https://github.com/NVlabs/LongLive) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://nvlabs.github.io/LongLive) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Efficient-Large-Model/LongLive-1.3B)
-- [Rolling Forcing: Autoregressive Long Video Diffusion in Real Time](https://huggingface.co/papers/2509.25161) [![GitHub Stars](https://img.shields.io/github/stars/TencentARC/RollingForcing?style=social)](https://github.com/TencentARC/RollingForcing) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/TencentARC/RollingForcing)
 - [UltraGen: High-Resolution Video Generation with Hierarchical Attention](https://huggingface.co/papers/2510.18775) [![GitHub Stars](https://img.shields.io/github/stars/sjtuplayer/UltraGen?style=social)](https://github.com/sjtuplayer/UltraGen) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://sjtuplayer.github.io/projects/UltraGen)
-- [Stable Video Infinity: Infinite-Length Video Generation with Error Recycling](https://huggingface.co/papers/2510.09212) [![GitHub Stars](https://img.shields.io/github/stars/vita-epfl/Stable-Video-Infinity?style=social)](https://github.com/vita-epfl/Stable-Video-Infinity) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://stable-video-infinity.github.io/homepage/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/vita-video-gen/svi-model)
-- [MotionStream: Real-Time Video Generation with Interactive Motion Controls](https://huggingface.co/papers/2511.01266) [![GitHub Stars](https://img.shields.io/github/stars/alex4727/MotionStream?style=social)](https://github.com/alex4727/MotionStream)
 - [Less is Enough: Training‑Free Video Diffusion Acceleration via Runtime‑Adaptive Caching](http://arxiv.org/abs/2507.02860v1) [![GitHub Stars](https://img.shields.io/github/stars/H-EmbodVis/EasyCache?style=social)](https://github.com/H-EmbodVis/EasyCache)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://h-embodvis.github.io/EasyCache/)
 - [Compact Attention: Exploiting Structured Spatio‑Temporal Sparsity for Fast Video Generation](http://arxiv.org/abs/2508.12969v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://yo-ava.github.io/Compact-Attention.github.io/)
 - [MagCache: Fast Video Generation with Magnitude‑Aware Cache](http://arxiv.org/abs/2506.09045v1) [![GitHub Stars](https://img.shields.io/github/stars/Zehong-Ma/MagCache?style=social)](https://github.com/Zehong-Ma/MagCache)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://zehong-ma.github.io/MagCache/)
@@ -2245,7 +2400,6 @@
 - [Taming Diffusion Transformer for Real‑Time Mobile Video Generation](http://arxiv.org/abs/2507.13343v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://snap-research.github.io/mobile_video_dit/)
 - [SRDiffusion: Accelerate Video Diffusion Inference via Sketching‑Rendering Cooperation](http://arxiv.org/abs/2505.19151v1) [![GitHub Stars](https://img.shields.io/github/stars/alibaba/SRDiffusion?style=social)](https://github.com/alibaba/SRDiffusion)
 - [Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic‑Aware Permutation](http://arxiv.org/abs/2505.18875v1)
-- [DVD‑Quant: Data‑free Video Diffusion Transformers Quantization](http://arxiv.org/abs/2505.18663v1) [![GitHub Stars](https://img.shields.io/github/stars/lhxcs/DVD-Quant?style=social)](https://github.com/lhxcs/DVD-Quant)
 - [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](http://arxiv.org/abs/2503.19462v1) [![GitHub Stars](https://img.shields.io/github/stars/aejion/accvideo?style=social)](https://github.com/aejion/accvideo)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://aejion.github.io/accvideo/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/aejion/AccVideo)
 - [Region Masking to Accelerate Video Processing on Neuromorphic Hardware](http://arxiv.org/abs/2503.16775v1)
 - [DSV: Exploiting Dynamic Sparsity to Accelerate Large‑Scale Video DiT Training](http://arxiv.org/abs/2502.07590v3)
@@ -2344,6 +2498,8 @@
 * **[ICLR 2026]** *BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-ICLR%202026-D15E5E?style=for-the-badge)](https://iclr.cc/virtual/2026/poster/10009356) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fredreic1849.github.io/BranchGRPO-Webpage/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fredreic1849/BranchGRPO)
 
+* **[ICLR 2026]** ***Omni-Reward:*** *Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9C4gVbPqSy) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omnireward.github.io/)
+
 </details>
 
 <details>
@@ -2383,7 +2539,6 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-- [Self-Forcing++: Towards Minute-Scale High-Quality Video Generation](https://arxiv.org/pdf/2510.02283.pdf) [![GitHub Stars](https://img.shields.io/github/stars/justincui03/Self-Forcing-Plus-Plus?style=social)](https://github.com/justincui03/Self-Forcing-Plus-Plus) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://self-forcing-plus-plus.github.io/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/gdhe17/Self-Forcing)
 - [LongCat-Video Technical Report](https://arxiv.org/pdf/2510.22200.pdf) [![GitHub Stars](https://img.shields.io/github/stars/meituan-longcat/LongCat-Video?style=social)](https://github.com/meituan-longcat/LongCat-Video) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://meituan-longcat.github.io/LongCat-Video/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/meituan-longcat/LongCat-Video)
 - [PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning](https://arxiv.org/pdf/2510.13809.pdf) [![GitHub Stars](https://img.shields.io/github/stars/KwaiVGI/PhysMaster?style=social)](https://github.com/KwaiVGI/PhysMaster) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://sihuiji.github.io/PhysMaster-Page/)
 - [LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment](https://arxiv.org/pdf/2412.04814) [![GitHub Stars](https://img.shields.io/github/stars/CodeGoat24/LiFT?style=social)](https://github.com/CodeGoat24/LiFT)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://codegoat24.github.io/LiFT/)
@@ -2418,10 +2573,8 @@
 - [Unified Reward Model for Multimodal Understanding and Generation](http://arxiv.org/pdf/2503.05236) [![GitHub Stars](https://img.shields.io/github/stars/codegoat24/UnifiedReward?style=social)](https://github.com/codegoat24/UnifiedReward)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://codegoat24.github.io/UnifiedReward/)
 - [Pre‑Trained Video Generative Models as World Simulators](https://arxiv.org/pdf/2502.07825)
 - [Harness Local Rewards for Global Benefits: Effective Text‑to‑Video Generation Alignment with Patch‑level Reward Models](https://arxiv.org/pdf/2502.06812)
-- [IPO: Iterative Preference Optimization for Text‑to‑Video Generation](https://arxiv.org/pdf/2502.02088)
 - [MJ‑VIDEO: Fine‑Grained Benchmarking and Rewarding Video Preferences in Video Generation](https://arxiv.org/pdf/2502.01719) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://aiming-lab.github.io/MJ-VIDEO.github.io/)
 - [HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human‑Centric Alignment](https://arxiv.org/pdf/2502.01690)
-- [Zeroth‑order Informed Fine‑Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer](https://arxiv.org/pdf/2502.00639) [![GitHub Stars](https://img.shields.io/github/stars/RTkenny/RLR-Opimtizer?style=social)](https://github.com/RTkenny/RLR-Opimtizer)
 - [Improving Video Generation with Human Feedback](https://arxiv.org/pdf/2501.13918) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://gongyeliu.github.io/videoalign)
 - [VisionReward: Fine‑Grained Multi‑Dimensional Human Preference Learning for Image and Video Generation](https://arxiv.org/pdf/2412.21059) [![GitHub Stars](https://img.shields.io/github/stars/THUDM/VisionReward?style=social)](https://github.com/THUDM/VisionReward)
 - [OnlineVPO: Align Video Diffusion Model with Online Video‑Centric Preference Optimization](https://arxiv.org/pdf/2412.15159) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://onlinevpo.github.io/)
@@ -2538,7 +2691,7 @@ QuenithAI is a professional organization composed of top researchers, dedicated 
 
 Maintaining this `Video-Generation-Paper-List` list requires significant effort, just as completing a high-quality paper requires focused dedication and expert guidance. If you're looking for one-on-one support from top scholars on your own research project, to quickly identify innovative ideas and make publications, we invite you to contact us ASAP.
 
-➡️ **Contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:your.email@example.com) to start your research journey.**
+➡️ **Contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:christzhaung@gmail.com) to start your research journey.**
 
 ---
 
@@ -2546,7 +2699,7 @@ Maintaining this `Video-Generation-Paper-List` list requires significant effort,
 
 维护一个GitHub调研仓库需要巨大的精力，正如完成一篇高质量的论文一样，离不开专注的投入和专业的指导。如果您希望在自己的研究项目中，获得来自顶尖学者的一对一支持，我们诚邀您与我们取得联系。
 
-➡️ **欢迎通过 [微信](assets/wechat.jpg) 或 [邮件](mailto:your.email@example.com) 联系我们，开启您的科研之旅。**
+➡️ **欢迎通过 [微信](assets/wechat.jpg) 或 [邮件](mailto:christzhaung@gmail.com) 联系我们，开启您的科研之旅。**
 
 
 [<small>⇧ Back to ToC</small>](#contents)
