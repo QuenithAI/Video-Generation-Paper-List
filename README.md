@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Oct 31st, 2026)**: We have updated all accepted papers in **ACL 2026**.
 - **(Oct 27th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
 - **(Mar 9th, 2026)**: We have updated all accepted papers in **CVPR 2026**.
 - **(Nov 19th, 2025)**: We have updated all accepted papers in **AAAI 2026**.
@@ -101,6 +102,15 @@
 
 * **[AAAI 2026]** ***EmoVid:*** *A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.11002) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zane-zyqiu.github.io/EmoVid)
+
+* **[ACL 2026]** *Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.172.pdf)
+
+* **[ACL 2026]** *Beyond the Last Frame: Process-aware Evaluation for Generative Video Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.24952) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/RUCAIBox/VIPER)
+
+* **[ACL 2026]** ***OSCBench:*** *Benchmarking Object State Change in Text-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.11698) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hanxjing.github.io/OSCBench/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/iLearn-Lab/ACL26-OSCBench)
 
 
 * **[CVPR 2026]** ***ID-Composer: VLM-Grounded Online RL for Compositional Multi-Subject Video Generation***<br>
@@ -1266,7 +1276,7 @@
 - [HyperNVD: Accelerating Neural Video Decomposition via Hypernetworks](http://arxiv.org/abs/2503.17276v1)
 - [VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation](http://arxiv.org/abs/2503.14350v2)
 - [GIFT: Generated Indoor video frames for Texture‑less point tracking](http://arxiv.org/abs/2503.12944v1)
-- [RASA: Replace Anyone, Say Anything — A Training‑Free Framework for Audio‑Driven and Universal Portrait Video Editing](http://arxiv.org/abs/2503.11571v1)
+- [RASA: Replace Anyone, Say Anything—A Training‑Free Framework for Audio‑Driven and Universal Portrait Video Editing](http://arxiv.org/abs/2503.11571v1)
 - [V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes](http://arxiv.org/abs/2503.10634v2)
 - [Alias‑Free Latent Diffusion Models: Improving Fractional Shift Equivariance of Diffusion Latent Space](http://arxiv.org/abs/2503.09419v1)
 - [VACE: All‑in‑One Video Creation and Editing](http://arxiv.org/abs/2503.07598v2)
@@ -1766,6 +1776,9 @@
 * **[AAAI 2026]** ***FantasyTalking2:*** *FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.11255) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-talking2/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-talking2) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/papers/2508.11255)
 
+* **[ACL 2026]** ***MTAVG-Bench:*** *A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.00607)
+
 * **[CVPR 2026 Findings]** ***UniTalking:*** *A Unified Audio-Video Framework for Talking Portrait Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.01418)
 
 * **[CVPR 2026]** ***Avatar Forcing:*** *Real-Time Interactive Head Avatar Generation for Natural Conversation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.00664) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://taekyungki.github.io/AvatarForcing/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TaekyungKi/AvatarForcing)
@@ -1919,7 +1932,7 @@
 - [SpA2V: Harnessing Spatial Auditory Cues for Audio‑driven Spatially‑aware Video Generation](http://arxiv.org/abs/2508.00782v1)
 - [OmniAvatar: Efficient Audio‑Driven Avatar Video Generation with Adaptive Body Animation](http://arxiv.org/abs/2506.18866v1) [![GitHub Stars](https://img.shields.io/github/stars/Omni-Avatar/OmniAvatar?style=social)](https://github.com/Omni-Avatar/OmniAvatar)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://omni-avatar.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/OmniAvatar/OmniAvatar-14B)
 - [AlignHuman: Improving Motion and Fidelity via Timestep‑Segment Preference Optimization for Audio‑Driven Human Animation](http://arxiv.org/abs/2506.11144v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://alignhuman.github.io/)
-- [LLIA — Enabling Low‑Latency Interactive Avatars: Real‑Time Audio‑Driven Portrait Video Generation with Diffusion Models](http://arxiv.org/abs/2506.05806v1) [![GitHub Stars](https://img.shields.io/github/stars/MeiGen-AI/llia?style=social)](https://github.com/MeiGen-AI/llia)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://meigen-ai.github.io/llia/)
+- [LLIA—Enabling Low‑Latency Interactive Avatars: Real‑Time Audio‑Driven Portrait Video Generation with Diffusion Models](http://arxiv.org/abs/2506.05806v1) [![GitHub Stars](https://img.shields.io/github/stars/MeiGen-AI/llia?style=social)](https://github.com/MeiGen-AI/llia)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://meigen-ai.github.io/llia/)
 - [TalkingMachines: Real‑Time Audio‑Driven FaceTime‑Style Video via Autoregressive Diffusion Models](http://arxiv.org/abs/2506.03099v1) [![GitHub Stars](https://img.shields.io/github/stars/aaxwaz/TalkingMachines?style=social)](https://github.com/aaxwaz/TalkingMachines)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://aaxwaz.github.io/TalkingMachines/)
 
 
@@ -1987,6 +2000,9 @@
 
 * **[AAAI 2026]** ***FantasyHSI:*** *Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2509.01232.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-hsi/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-hsi)
+
+* **[ACL 2026]** ***Stable Signer:*** *Hierarchical Sign Language Generative Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.04048) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stablesigner.github.io/)
 
 * **[CVPR 2026]** ***UniAnimate-DiT:*** *Human Image Animation with Large-Scale Video Diffusion Transformer*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.11289) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ali-vilab/UniAnimate-DiT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ZheWang123/UniAnimate-DiT)
 
