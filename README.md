@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 10th, 2026)**: We have updated all accepted papers in **ACM MM 2026**.
 - **(Nov 8th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 4th, 2026)**: We have updated all accepted papers in **ICML 2026**.
 - **(Oct 31st, 2026)**: We have updated all accepted papers in **ACL 2026**.
@@ -104,6 +105,15 @@
 
 * **[AAAI 2026]** ***EmoVid:*** *A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.11002) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zane-zyqiu.github.io/EmoVid)
+
+* **[ACM MM 2026]** ***TokBench:*** *Evaluating Your Visual Tokenizer before Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.18142) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wjf5203.github.io/TokBench/home_page.html)
+
+* **[ACM MM 2026]** ***MuSS:*** *A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.23789)
+
+* **[ACM MM 2026]** *Motion Concept Unlearning in Video Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.36832)
 
 * **[ACL 2026]** *Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.172.pdf)
@@ -947,6 +957,24 @@
 * **[AAAI 2026]** ***IPRO:*** *Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2510.14255.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ipro-alimama.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/alibaba/ROLL)
 
+* **[ACM MM 2026]** ***The Price of Consistency:*** *Exploiting Visual Anchors for Multimodal Jailbreaking in Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.07216)
+
+* **[ACM MM 2026]** ***MindWorldBench:*** *Evaluating Mental-State-to-Behavior Reasoning in Image-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.39147) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://richard2049-lee.github.io/MindWorldBench/)
+
+* **[ACM MM 2026]** ***TransText:*** *Alpha-as-RGB Representation for Transparent Text Animation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.17944) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sii-ferenas.github.io/TransText/)
+
+* **[ACM MM 2026]** ***FlashI2V:*** *Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.25187)
+
+* **[ACM MM 2026]** ***TempJail:*** *Temporal Jailbreak Attacks against Image-to-Video Generation Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.26971) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/luqi-glory/TempJail)
+
+* **[ACM MM 2026]** ***Eulerian Motion Guidance:*** *Robust Image Animation via Bidirectional Geometric Consistency*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2605.06280)
+
 * **[CVPR 2026]** ***ALG:*** *Improving Motion in Image-to-Video Models via Adaptive Low-Pass Guidance*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.08456) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://choi403.github.io/ALG/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/choi403/ALG)
 
@@ -1269,6 +1297,18 @@
 
 * **[AAAI 2026]** ***FAME:*** *Fairness-aware Attention-modulated Video Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2510.22960.pdf)
+
+* **[ACM MM 2026]** ***Driving with DINO:*** *Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.06159)
+
+* **[ACM MM 2026]** ***BooM-VVT:*** *Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.04120) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/BooMVVT/boomvvt)
+
+* **[ACM MM 2026]** ***FlowAnchor:*** *Stabilizing the Editing Signal for Inversion-Free Video Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.22586) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cuc-mipg.github.io/FlowAnchor.github.io/)
+
+* **[ACM MM 2026]** *Controllable Video Object Insertion via Multi-view Priors*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.14556) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://polarisxq.github.io/MOVI/)
 
 * **[CVPR 2026]** ***Ditto:*** *Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.15742) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ezioby.github.io/Ditto_page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/EzioBy/Ditto) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/QingyanBai/Ditto_models)
@@ -1836,6 +1876,21 @@
 * **[AAAI 2026]** ***MotionFlow:*** *Attention-Driven Motion Transfer in Video Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2412.05275) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://motionflow-diffusion.github.io/)
 
+* **[ACM MM 2026]** ***CT-1:*** *Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.09201) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gulucaptain.github.io/Camera-Transformer-1/)
+
+* **[ACM MM 2026]** ***EgoDemoGen:*** *Egocentric Demonstration Generation for Viewpoint Generalization in Robotic Manipulation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.22578)
+
+* **[ACM MM 2026]** ***Tora3:*** *Trajectory-Guided Audio-Video Generation with Physical Coherence*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.09057) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ali-videoai.github.io/tora3_page)
+
+* **[ACM MM 2026]** ***Disco-LoRA:*** *Disentangled Composition of Content, Style, and Motion for Multi-concept Video Customization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2606.26668) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xuxuancheng0208.github.io/discolora_page/)
+
+* **[ACM MM 2026]** ***Slot-ID:*** *Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.01352)
+
 * **[CVPR 2026]** ***Stand-In:*** *A Lightweight and Plug-and-Play Identity Control for Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.07901) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stand-in-video.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/WeChatCV/Stand-In) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/BowenXue/Stand-In)
 
 * **[CVPR 2026]** *First Frame Is the Place to Go for Video Content Customization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.15700) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://firstframego.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zli12321/FFGO-Video-Customization) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Video-Customization/FFGO-Lora-Adapter)
@@ -2384,6 +2439,42 @@
 * **[AAAI 2026]** ***FantasyTalking2:*** *FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.11255) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-talking2/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-talking2) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/papers/2508.11255)
 
+* **[ACM MM 2026]** ***Hallo-Live:*** *Real-Time Streaming Joint Audio-Video Avatar Generation with Asynchronous Dual-Stream and Human-Centric Preference Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.23632) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fudan-generative-vision/Hallo-Live)
+
+* **[ACM MM 2026]** ***Hi-Singers:*** *A Comprehensive High-Quality Dataset for Expressive Audio-Driven Singing Head Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.22264)
+
+* **[ACM MM 2026]** ***PRISM-Bench:*** *An Audio-Centric Diagnostic Benchmark for Text-to-Audio-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.04867)
+
+* **[ACM MM 2026]** *Geometry-guided Emotion Modulation for Controllable and Photorealistic Emotional Talking Face Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.00663)
+
+* **[ACM MM 2026]** ***SubtleTalk:*** *Generating Controllable Weakly-correlated Facial Dynamics for 3D Talking Heads via Residual Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.06408) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://molly-ding.github.io/SubtleTalk/)
+
+* **[ACM MM 2026]** ***Talker-T2AV:*** *Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.23586) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talker-t2av.github.io/)
+
+* **[ACM MM 2026]** ***VibeAvatar:*** *Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.18632)
+
+* **[ACM MM 2026]** ***LiveAct:*** *Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.11746)
+
+* **[ACM MM 2026]** ***A2-LLM:*** *An End-to-end Conversational Audio Avatar Large Language Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.04913)
+
+* **[ACM MM 2026]** ***PhyAVBench:*** *A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.23994)
+
+* **[ACM MM 2026]** ***MTAVG-Bench 2.0:*** *Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2605.28035)
+
+* **[ACM MM 2026]** ***IMTalker:*** *Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.22167)
+
 * **[ACL 2026]** ***MTAVG-Bench:*** *A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.00607)
 
@@ -2673,6 +2764,15 @@
 * **[AAAI 2026]** ***FantasyHSI:*** *Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2509.01232.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fantasy-amap.github.io/fantasy-hsi/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Fantasy-AMAP/fantasy-hsi)
 
+* **[ACM MM 2026]** ***AniCrafter:*** *Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.20255) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myniuuu.github.io/AniCrafter)
+
+* **[ACM MM 2026]** ***CogPortrait:*** *Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2605.28056)
+
+* **[ACM MM 2026]** ***SeMo:*** *A Self-Supervised Motion Latent for Portrait Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.10096)
+
 * **[ACL 2026]** ***Stable Signer:*** *Hierarchical Sign Language Generative Model*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.04048) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stablesigner.github.io/)
 
@@ -2893,6 +2993,27 @@
 
 * **[AAAI 2026]** ***Turbo-VAED:*** *Fast and Stable Transfer of Video-VAEs to Mobile Devices*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.09136.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hustvl/Turbo-VAED) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/hustvl/Turbo-VAED)
+
+* **[ACM MM 2026]** ***EchoCache:*** *Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.02474)
+
+* **[ACM MM 2026]** *Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.02979) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hsc113/SCOPE)
+
+* **[ACM MM 2026]** ***BRACE:*** *Taming Sharp Irregularities via Barycentric Rational Forecasting for Fast Diffusion Transformers Inference*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.07572) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youngkinlon.github.io/BRACE-Taming-Sharp-Irregularities-via-Barycentric-Rational-Forecasting-for-Fast-DiT-Inference/)
+
+* **[ACM MM 2026]** ***Z²-Sampling:*** *Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.23536)
+
+* **[ACM MM 2026]** ***DynaForcing:*** *Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.17707)
+
+* **[ACM MM 2026]** ***ZEUS:*** *Accelerating Diffusion Models with Only Second-Order Predictor*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.01552) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ting-Justin-Jiang/ZEUS)
+
+* **[ACM MM 2026]** ***Predict to Skip:*** *Linear Multistep Feature Forecasting for Efficient Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.18093) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hsc113/PrediT)
 
 * **[CVPR 2026]** *Adaptive Hybrid Caching for Efficient Text-to-Video Diffusion Model Acceleration*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.12691)
 
@@ -3295,6 +3416,15 @@
 
 * **[AAAI 2026]** *VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.21059) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zai-org/VisionReward) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/zai-org/VisionReward-Video)
+
+* **[ACM MM 2026]** ***Step Back to Move Forward:*** *Reflection-Aware Preference Optimization for Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.04282)
+
+* **[ACM MM 2026]** *When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2607.16947)
+
+* **[ACM MM 2026]** *Learning to Credit the Right Steps: Objective-aware Process Optimization for Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.19234)
 
 * **[CVPR 2026]** *Inference-time Physics Alignment of Video Generative Models with Latent World Models*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.10553) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/facebookresearch/WMReward)
 
