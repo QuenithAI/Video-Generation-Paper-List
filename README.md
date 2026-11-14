@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 14th, 2026)**: We have updated all accepted papers in **NeurIPS 2026**.
 - **(Nov 10th, 2026)**: We have updated all accepted papers in **ACM MM 2026**.
 - **(Nov 8th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 4th, 2026)**: We have updated all accepted papers in **ICML 2026**.
@@ -436,6 +437,168 @@
 * **[ICML 2026]** ***VideoMAETok:*** *Boosting Video Diffusion Models via Masked Autoencoders as Tokenizers*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uLTgWANmgz) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yztongzhan/VideoMAETok)
 
 * **[ICML 2026]** ***Where Concept Erasure Should Occur:*** *Concept–Layer Alignment in Text-to-Video Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BzxF9ewad6)
+
+* **[NeurIPS 2026]** ***3DSPA:*** *A 3D Semantic Point Autoencoder for Evaluating Video Realism*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OOMPX54uZM)
+
+* **[NeurIPS 2026]** ***ABC:*** *Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=j5oO6647Tp)
+
+* **[NeurIPS 2026]** ***AdaState:*** *Self-Evolving Anchors for Streaming Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=elLf1P8oAQ)
+
+* **[NeurIPS 2026]** *Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=W66Ni14uAk)
+
+* **[NeurIPS 2026]** ***ApertureAttn:*** *Native 4K Video Generation with Image-Only Supervision*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9pq44O4Vzq)
+
+* **[NeurIPS 2026]** ***Apple-$\pi$:*** *Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=nwMoRojkLQ)
+
+* **[NeurIPS 2026]** ***Bernini:*** *Latent Semantic Planning for Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GDdIbzbPVF)
+
+* **[NeurIPS 2026]** ***BRAVO:*** *Bridge Matching for Autoregressive Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xsOb1nnuLg)
+
+* **[NeurIPS 2026]** *Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SYResv1L06)
+
+* **[NeurIPS 2026]** ***CanvasMAR:*** *Improving Masked Autoregressive Video Prediction With Canvas*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=znXlOaeZCI)
+
+* **[NeurIPS 2026]** ***CausalCine:*** *Real-Time Autoregressive Generation for Multi-Shot Video Narratives*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ELwIR2S82B)
+
+* **[NeurIPS 2026]** *Coarse-to-Fine Compositional Diffusion for Long-Horizon Planning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xTMCXC32qJ)
+
+* **[NeurIPS 2026]** ***CollabVR:*** *Collaborative Video Reasoning with Vision-Language and Video Generation Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lv4U2Eez13)
+
+* **[NeurIPS 2026]** ***Disen-Forcing:*** *Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=x6iaZeSlAJ)
+
+* **[NeurIPS 2026]** ***DOME:*** *Drift-Adaptive On-Policy Motion Erasure in Video Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zlsIDv6ZvH)
+
+* **[NeurIPS 2026]** *Early Failure Detection and Intervention in Video Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YbCJPGk7pI)
+
+* **[NeurIPS 2026]** ***EntityBench:*** *Towards Entity-Consistent Long-Range Multi-Shot Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=MXMtuuTopS)
+
+* **[NeurIPS 2026]** *Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mH42nbVley)
+
+* **[NeurIPS 2026]** ***FreeSpec:*** *Training-Free Long Video Generation via Singular-Spectrum Reconstruction*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mwefOglxvK)
+
+* **[NeurIPS 2026]** *Frequency-Synchronized Boundary Coupling for Training-Free Multi-Prompt Long Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=z35Hr04fUJ)
+
+* **[NeurIPS 2026]** ***LaMo:*** *Self-Supervised Latent Motion Priors for Physical Realism in Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=W5AJ1oTjlb)
+
+* **[NeurIPS 2026]** *Latent Motion Alignment for Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=bVwQzYJ7qZ)
+
+* **[NeurIPS 2026]** ***Learning-to-Memorize:*** *Dynamic Context Management for Long-Horizon Autoregressive Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=CfeDlcqmdj)
+
+* **[NeurIPS 2026]** ***LogicDirector:*** *Enforcing Temporal Composition in Text-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KxBQdkTg2q)
+
+* **[NeurIPS 2026]** *Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=oypHHANGiB)
+
+* **[NeurIPS 2026]** *Meta Inverse Prompting for Video Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=iRDtcVU7O0)
+
+* **[NeurIPS 2026]** ***MEV:*** *A Multi-Event Video Dataset for Long-Take Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=blH6L8WmTv)
+
+* **[NeurIPS 2026]** ***MilliVid:*** *Adaptive Latents for Long-Range Consistency in Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=86Z2vQcbuD)
+
+* **[NeurIPS 2026]** ***MotionCFG:*** *Boosting Motion Dynamics via Semantic Motion Sharpening*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kFcyrsn0he)
+
+* **[NeurIPS 2026]** ***NEvo:*** *Neural-Guided Evolutionary Video Synthesis for Dynamic Visual Selectivity*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tfCRRsKi3E)
+
+* **[NeurIPS 2026]** ***OmniMem:*** *Scalable and Adaptive Memory Retrieval for Long Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lJpXhbi9az)
+
+* **[NeurIPS 2026]** ***OpenCoF:*** *Learning to Reason Through Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=txkEmHILO7)
+
+* **[NeurIPS 2026]** ***PhyMetric:*** *Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jfYWGg0AKD)
+
+* **[NeurIPS 2026]** ***PhyProbe:*** *Rethinking Physical Consistency Evaluation in Generated Videos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pcRAi8J0Ss)
+
+* **[NeurIPS 2026]** ***PhysEval:*** *Quantifying the Gap Between Video Generation and World Physical Laws*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=26VREDvTyr)
+
+* **[NeurIPS 2026]** ***PhysFlow:*** *Physics-Intrinsic Velocity Regularization for Motion-Intensive Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=bI9RUy8ZnA)
+
+* **[NeurIPS 2026]** *Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7LkTMagsSg)
+
+* **[NeurIPS 2026]** ***PlasticMem:*** *Adding Temporal Reasoning to Diffusions for Consistent Long Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xTHR2rP4s6)
+
+* **[NeurIPS 2026]** ***Principia:*** *Relational Physics Tests for Video Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OeH6Ijqffz)
+
+* **[NeurIPS 2026]** ***ReGen:*** *Agentic Video World Modeling with Synergized Reasoning and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QMvrZxy8W9)
+
+* **[NeurIPS 2026]** *Retrieve What’s Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=x0gbPKK4uf)
+
+* **[NeurIPS 2026]** ***RISE-Video:*** *Can Video Generators Decode Implicit World Rules?*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LriqPuIS7K)
+
+* **[NeurIPS 2026]** *Seeing the Unseen: Unified Visible–Invisible Motion for Physically Consistent Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mXUs8DCmoQ)
+
+* **[NeurIPS 2026]** ***SpecLoR:*** *Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=PoLjtyYc3T)
+
+* **[NeurIPS 2026]** *Teaching Video Generators to Remember: Eliciting Dynamic Memory for Out-of-Sight State Evolution*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lRGzNHEyVe)
+
+* **[NeurIPS 2026]** *Temporal Backtracking Search for Test-time Generative Video Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=VbbMjAFFHD)
+
+* **[NeurIPS 2026]** *The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mTYG9xSbYv)
+
+* **[NeurIPS 2026]** *Trajectory Forcing: Exploiting Diffusion Trajectories for Autoregressive Long Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=em6QThoqTy)
+
+* **[NeurIPS 2026]** *Trimming the Long-Tail of Visual World Modeling Evaluation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QXhOfEEBll)
+
+* **[NeurIPS 2026]** ***VI-Bench:*** *Benchmarking Prompt Inversion from AIGC Videos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=qxmiHSNcG9)
+
+* **[NeurIPS 2026]** ***Video-Mirai:*** *Autoregressive Video Diffusion Models Need Foresight*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0Oqbkn7POo)
+
+* **[NeurIPS 2026]** *What Drives Compositional Generalization? The Importance of Continuous Training Objectives in Visual Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=nDJI3hkYsq)
+
+* **[NeurIPS 2026]** *What Remains in Sight? Autoregressive Video Decoding as Representation-Guided Context Rewriting*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=qPau1JT3fL)
+
+* **[NeurIPS 2026]** ***WorldReasonBench:*** *Human-Aligned Stress Testing of Video Generators as Future World-State Predictors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=x1JYbqADOo)
 
 </details>
 
@@ -1053,6 +1216,24 @@
 
 * **[ICML 2026]** ***SpeedVFI:*** *One-step Diffusion for Efficient Video Frame Interpolation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wBfJTBlM5d)
 
+* **[NeurIPS 2026]** *Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Twfrs5sTBH)
+
+* **[NeurIPS 2026]** ***I2V-DETACH:*** *Source Grounding Detachment for Unauthorized Image-to-Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2jiZgfYwnk)
+
+* **[NeurIPS 2026]** ***PickMoment:*** *Continuous-Time Single-Image-to-Video via Learning Deblurring and Blur-to-Video*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OLVcmhgg5O)
+
+* **[NeurIPS 2026]** *Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=F5Ye7KS0H2)
+
+* **[NeurIPS 2026]** ***RefDecoder:*** *Enhancing Visual Generation with Conditional Video Decoding*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wtsf0kmI37)
+
+* **[NeurIPS 2026]** ***Static-to-Dynamic:*** *Animating Still Mattes via Generative Motion for Video Matting*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QGTLErB1Eo)
+
 </details>
 
 <details>
@@ -1545,6 +1726,93 @@
 * **[ICML 2026]** *Unpaired Visual Editing with Self-Consistent Flow Matching*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=80gMhZMWZy) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.nvidia.com/labs/par/byg/)
 
 * **[ICML 2026]** ***WEVSR:*** *Video Diffusion Generators for Real-World Video Super‑Resolution with Wavelet-Enhanced VAE Encoder*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WYBM6ES3iH)
+
+* **[NeurIPS 2026]** *Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=aLw0wVmMRl)
+
+* **[NeurIPS 2026]** *Agentic Video Editing from Underspecified Requests*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pGPKhPBqR0)
+
+* **[NeurIPS 2026]** ***AgenticVBench:*** *Can AI Agents Complete Real-World Video Production Tasks?*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BZpjhtRxCt)
+
+* **[NeurIPS 2026]** ***AR-Edit:*** *Training-Free Streaming Video Editing without Inversion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Tq0zQSyHNl)
+
+* **[NeurIPS 2026]** ***AVENUE:*** *Audio-Video Editing Understanding and Evaluation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=yhjWPeN5lp)
+
+* **[NeurIPS 2026]** ***CARVE:*** *Counterfactual Video Editing for Auditing and Hardening Video Detectors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=a0f5OM9rop)
+
+* **[NeurIPS 2026]** ***EditDistill:*** *Is It Possible to Guide Video Editing with Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=C8Uf36RhCB)
+
+* **[NeurIPS 2026]** ***FacEDiT:*** *Talking Head Video Editing via Facial Motion Infilling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UDOhx8aiSo)
+
+* **[NeurIPS 2026]** ***FlashRelight:*** *Portrait Video Relighting with Dynamic Lighting*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=K4Vqa2QXge)
+
+* **[NeurIPS 2026]** ***FlowTrack:*** *Controlling Edit-Signal Execution in Inversion-Free Flow Video Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=USNrqsbBWX)
+
+* **[NeurIPS 2026]** *Harnessing Image Diffusion Prior for Photo-Realistic Video Restoration*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=conEYoQsmd)
+
+* **[NeurIPS 2026]** ***HorizonComposer:*** *Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=h4NSSZLqct)
+
+* **[NeurIPS 2026]** ***InstructVVT:*** *Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=nxlHQt3QrN)
+
+* **[NeurIPS 2026]** *Learning Motion-Appearance Coupling Priors for Solving Video Inverse Problems*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=obAMFSJZhW)
+
+* **[NeurIPS 2026]** *Learning to Correct Geometry in Generated Videos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=F4Nu5j4xQU)
+
+* **[NeurIPS 2026]** *Long Video Instructional Editing in the Wild*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WxwO1ainQv)
+
+* **[NeurIPS 2026]** ***LongSCOP:*** *Semantically Consistent Long Video Outpainting*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=J99B4Y1GNG)
+
+* **[NeurIPS 2026]** *My Video Stays Mine: Temporally Consistent Universal Adversarial Perturbations against Video Customization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=MIAM3vbVhL)
+
+* **[NeurIPS 2026]** ***PermaVid:*** *Consistent Video Generation Across Edits via Disentangled Context Memory*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ex3Eiix1Bn)
+
+* **[NeurIPS 2026]** ***PISCO:*** *Precise Video Instance Insertion with Sparse Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6JxPJz9oJ3)
+
+* **[NeurIPS 2026]** *Rate-Constrained Edge Metadata for Sender–Receiver Generative Video Super-Resolution*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kqtZlt4mPS)
+
+* **[NeurIPS 2026]** ***ReGenHuman:*** *Re-Generating Human Appearances for Realistic Full-Body Video Anonymization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zgk8N9WGSM)
+
+* **[NeurIPS 2026]** ***Sparkle:*** *Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lxENzLpNAa)
+
+* **[NeurIPS 2026]** ***SteerVTE:*** *Seamless Video Text Editing with Style and Glyph Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vMuUnsiZxf)
+
+* **[NeurIPS 2026]** *Transforming Image Editors into Video Editors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=r1K6p0Djsg)
+
+* **[NeurIPS 2026]** ***V2VFusion:*** *Text-Controlled Video-to-Video Diffusion for Degradation-Aware Video Fusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=J653w2Pft0)
+
+* **[NeurIPS 2026]** ***VicEdit:*** *Learning to Edit Videos from Visual In-Context Examples*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1P8vkGpb52)
+
+* **[NeurIPS 2026]** ***VINCIE-NExT:*** *Unlocking Video Editing from Images via In-Context Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=PosCNbmdH8)
+
+* **[NeurIPS 2026]** ***ViTeX-Bench:*** *Benchmarking High-Fidelity Video Scene Text Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fyPHDFABOs)
 
 </details>
 
@@ -2247,6 +2515,216 @@
 
 * **[ICML 2026]** ***WorldPlay:*** *Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GfSwkDSr8J)
 
+* **[NeurIPS 2026]** ***$h$-control:*** *Training-Free Camera Control via Block-Conditional Gibbs Refinement*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1URtIBjIQ0)
+
+* **[NeurIPS 2026]** *A Hierarchical World Model for Driving*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Yj5ujHJ5XD)
+
+* **[NeurIPS 2026]** *Action Images: End-to-End Policy Learning via Multiview Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dvcWzyuusE)
+
+* **[NeurIPS 2026]** *Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jzkIT7ApwP)
+
+* **[NeurIPS 2026]** ***ActWorld:*** *From Explorable to Interactive World Model via Action-Aware Memory*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DisAMFjByQ)
+
+* **[NeurIPS 2026]** ***AdDirector:*** *Anchored Guidance for Generating Camera-Controllable Advertisement Videos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=guwdwpOuYH)
+
+* **[NeurIPS 2026]** *Addressable Memory for Video World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TCL6m7hsBg)
+
+* **[NeurIPS 2026]** ***AEON:*** *Unifying Video and 3D World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xUa62w8E9i)
+
+* **[NeurIPS 2026]** ***AmbiguousWorld:*** *Benchmarking and Resolving Ambiguous Instructions in Video World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5ORWSQZFqy)
+
+* **[NeurIPS 2026]** ***ARGUS:*** *Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Qlic1VUQ6h)
+
+* **[NeurIPS 2026]** ***Auteur:*** *Language-Driven Cinematographic Framing for Human-Centric Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=86BxEBOd7Q)
+
+* **[NeurIPS 2026]** *Beyond Copy-Paste: How Well Do Subject-Driven Video Models Understand Their Subjects?*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QnZfz1xiAO)
+
+* **[NeurIPS 2026]** *Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=XbmmVXqaHc)
+
+* **[NeurIPS 2026]** *Character Mixing for Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zKLIZIhkEs)
+
+* **[NeurIPS 2026]** ***CineOrchestra:*** *Unified Entity-Centric Conditioning for Cinematic Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pQRtpMb2e7)
+
+* **[NeurIPS 2026]** ***City-RAG:*** *Stepping Into a City via Spatially-Grounded Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=C7T2iGG1Zy)
+
+* **[NeurIPS 2026]** ***CounterStrike-1K:*** *A Multi-Perspective Dataset of Professional Gameplay for World Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FsEoZwUHsR)
+
+* **[NeurIPS 2026]** ***CRePE:*** *Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=msKXlv69Pt)
+
+* **[NeurIPS 2026]** ***DeformMaster:*** *An Interactive Physics-Neural World Model for Deformable Objects from Videos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RFz2SWN1Gj)
+
+* **[NeurIPS 2026]** ***DiT4DiT:*** *Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KG3sjtKCP6)
+
+* **[NeurIPS 2026]** *Drift-Resistant Navigation World Model with Anchored Epipolar Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=psmFTmu8nE)
+
+* **[NeurIPS 2026]** ***DriveDreamer-Policy:*** *A Geometry-Grounded World-Action Model for Unified Generation and Planning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pNtUKnNlBL)
+
+* **[NeurIPS 2026]** ***DriveWAM:*** *Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=irKRjaeIAV)
+
+* **[NeurIPS 2026]** ***DynaTokens:*** *Teaching Dynamics to Camera-Controlled Video Models at Test Time*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=m6mxu2krgE)
+
+* **[NeurIPS 2026]** ***EA-WM:*** *Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GfwsJK6MIo)
+
+* **[NeurIPS 2026]** ***FashionChameleon:*** *Towards Real-Time and Interactive Human-Garment Video Customization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ru7qDMOTdU)
+
+* **[NeurIPS 2026]** *From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kGzdWYQSDu)
+
+* **[NeurIPS 2026]** *From Zero to Hero: Training-Free Custom Concept Spawning in World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tl8wcMpfSF)
+
+* **[NeurIPS 2026]** ***GameVerse:*** *A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YbEXKsFhkZ)
+
+* **[NeurIPS 2026]** ***GeoMemory:*** *Geometry-Indexed Memory for Long-Horizon Interactive Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=57vx3F2jgX)
+
+* **[NeurIPS 2026]** ***Grounded-Exo2Ego:*** *Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=PsbYphBWj9)
+
+* **[NeurIPS 2026]** ***HAI:*** *Hierarchical Anchored Interaction for Multi-View Bimanual World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SXueAPIsi0)
+
+* **[NeurIPS 2026]** *Hallucination in World Models is Predictable and Preventable*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=4KT2peVuUl)
+
+* **[NeurIPS 2026]** ***Holo4D:*** *Holistic 4D Reconstruction as Geometric Control for Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Cu9FVR16z6)
+
+* **[NeurIPS 2026]** ***HOMIE:*** *Human-object Centric Video Personalization via Multimodal Intelligent Enhancement*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gYlKsADA2i)
+
+* **[NeurIPS 2026]** ***ICAT:*** *Incident-Case–Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=iLQ4MUPnqw)
+
+* **[NeurIPS 2026]** *Language-Conditioned World Modeling for Visual Navigation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DOtvhTItcX)
+
+* **[NeurIPS 2026]** ***LongScape:*** *Advancing Long-Horizon Embodied World Models with Context-Aware MoE*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=O4bPbWcKFK)
+
+* **[NeurIPS 2026]** ***LoopNav:*** *Benchmarking Spatial Consistency in World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=C9a7hXTA3X)
+
+* **[NeurIPS 2026]** *Masked Visual Actions for Unified World Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=VHMcZoypoo)
+
+* **[NeurIPS 2026]** *Motion Forcing: Decoupling Ego and Object Motion via Sparse Inputs for Structured Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TAxfuYvzVo)
+
+* **[NeurIPS 2026]** ***MotionGrounder:*** *Grounded Multi-Object Motion Transfer via Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LIXr6DYzVA)
+
+* **[NeurIPS 2026]** ***NEXUS:*** *Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Z9xwHfl47k)
+
+* **[NeurIPS 2026]** ***OptiWorld:*** *Optimal Control for Video World Generation under Physical Constraints*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ElToIAx2OM)
+
+* **[NeurIPS 2026]** ***PanoWorld:*** *Geometry-Consistent Panoramic Video World Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vq6RcMt70J)
+
+* **[NeurIPS 2026]** *Persistent Planar Memory for Video World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gLnVSxwQF6)
+
+* **[NeurIPS 2026]** *Physics-Conditioned Video Diffusion with Kinematic Priors for Fusion Capsule Polishing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=rDsuTZxMP3)
+
+* **[NeurIPS 2026]** *Point Tracking Improves World Action Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=sVFAjZ4nrj)
+
+* **[NeurIPS 2026]** ***RoboExo:*** *Structure-Guided Wrist-to-Exocentric Video Generation for Scalable Robot Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GHEHItQouU)
+
+* **[NeurIPS 2026]** *Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KaLmKJYhgp)
+
+* **[NeurIPS 2026]** ***SAX:*** *Advancing Video Diffusion Models for Sequential Action Execution*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=prR73XRZtV)
+
+* **[NeurIPS 2026]** ***Seed-Your-Motion:*** *Householder Orthogonal Noise for Motion-Controllable Video Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gBQls8hssQ)
+
+* **[NeurIPS 2026]** *Seeing the World through Any Eyes*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GEPHFHPezV)
+
+* **[NeurIPS 2026]** ***SierpinskiCam:*** *Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uLAOZJkWvq)
+
+* **[NeurIPS 2026]** ***SocialDirector:*** *Training-Free Social Interaction Control for Multi-Person Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9HlJW88mEe)
+
+* **[NeurIPS 2026]** ***Solaris:*** *Building a Multiplayer Video World Model in Minecraft*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xP408u4Mho)
+
+* **[NeurIPS 2026]** *Space-Aware World Models: Spatial Persistence Through Factored Scene Representations*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LIkrG4Xb53)
+
+* **[NeurIPS 2026]** *Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6xFifx1LaW)
+
+* **[NeurIPS 2026]** *Spatially-Grounded Long Video Generation with Self Geometry Forcing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=CfeJnlX4X0)
+
+* **[NeurIPS 2026]** ***SpatialVAM:*** *Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Yg9wmxxbDb)
+
+* **[NeurIPS 2026]** ***SPIRAL:*** *Self-Evolving Action-Conditioned Video Generation via Reflective Planning Agents*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Eez8xYYlu3)
+
+* **[NeurIPS 2026]** ***SurgVista:*** *Long-Horizon Surgical World Modeling with Plausible Instrument-Tissue Dynamics*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YK5GDKKF4q)
+
+* **[NeurIPS 2026]** ***SyncWorld:*** *Visual Calibration Enables World Models as Zero-Shot Simulators*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lj7OHtUYX1)
+
+* **[NeurIPS 2026]** ***TrajLoc:*** *Trajectory-Attention Localization for Multi-Object Motion Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DyRKHZlevm)
+
+* **[NeurIPS 2026]** ***Tri-Prompting:*** *Controllable Video Generation with Scene, Subject, and Motion Prompts*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Kutg1nC7K3)
+
+* **[NeurIPS 2026]** ***UniMoE-World:*** *A Unified Mixture-of-Experts Architecture for Scalable Multi-Control Video Generation World Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RHtNN9ZMbC)
+
+* **[NeurIPS 2026]** ***UniT:*** *Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uwdO3ESE0A)
+
+* **[NeurIPS 2026]** ***WorldForge:*** *Forging Unified World Modeling into Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UzN4X1bfUH)
+
+* **[NeurIPS 2026]** ***WorldPrism:*** *3D Consistency for Video World Models via Bidirectional Cross-Space Verification*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=M04rf81e1H)
+
+* **[NeurIPS 2026]** ***WorldVLA:*** *A Unified Vision-Language-Action and World Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2uT2MbEwuy)
+
 </details>
 
 <details>
@@ -2602,6 +3080,27 @@
 
 * **[ICML 2026]** ***TMD-Bench:*** *A Multi-Level Evaluation Paradigm for Music–Dance Co-Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FcklDFAnzF)
 
+* **[NeurIPS 2026]** ***Baton:*** *Explicit Semantic Blueprints for Joint Video-Audio Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=JMIXvPCjrz)
+
+* **[NeurIPS 2026]** *Do Joint Audio-Video Generation Models Understand Physics?*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=iUbannicWz)
+
+* **[NeurIPS 2026]** ***GLARE:*** *Generating Listening Heads with Appropriate REactions*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kJcRgMLqWX)
+
+* **[NeurIPS 2026]** ***MUTE:*** *Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=AlHi8J4Z6I)
+
+* **[NeurIPS 2026]** ***ReFree-S2V:*** *Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=I5DRYeUl99)
+
+* **[NeurIPS 2026]** ***SceneShifter:*** *Training-free Multi-Scene Temporal Control for Audio-driven Human Animation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Pbhd46aeMX)
+
+* **[NeurIPS 2026]** ***StableAvatar:*** *Ultra-Long Audio-Driven Avatar Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BAov2t06Vm) [![Preprint](https://img.shields.io/badge/Preprint-2508.08248-red?style=for-the-badge)](https://huggingface.co/papers/2508.08248) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://francis-rings.github.io/StableAvatar/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Francis-Rings/StableAvatar) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/FrancisRing/StableAvatar) [![GitHub Stars](https://img.shields.io/github/stars/Francis-Rings/StableAvatar?style=social)](https://github.com/Francis-Rings/StableAvatar)
+
 </details>
 
 <details>
@@ -2831,6 +3330,18 @@
 
 * **[ICML 2026]** *Implicit Preference Alignment for Human Image Animation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SorLoUARMp)
 
+* **[NeurIPS 2026]** ***EverAnimate:*** *Minute-Scale Human Animation via Latent Flow Restoration*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=L0ik0L4kA9)
+
+* **[NeurIPS 2026]** ***HumanScore:*** *Benchmarking Human Motions in Generated Videos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YGSNuUj5dh)
+
+* **[NeurIPS 2026]** *LLM Is a Good Conditioner: End-to-End Sign Language Video Generation with VQ-Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=twBWaZ8FT0)
+
+* **[NeurIPS 2026]** ***ONE-SHOT:*** *Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tdvtXabRKc)
+
 </details>
 
 <details>
@@ -2899,7 +3410,6 @@
 
 - [SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation](https://huggingface.co/papers/2511.19320) [![GitHub Stars](https://img.shields.io/github/stars/MCG-NJU/SteadyDancer?style=social)](https://github.com/MCG-NJU/SteadyDancer) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://mcg-nju.github.io/steadydancer-web/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/MCG-NJU/SteadyDancer-14B)
 - [Wan-Animate: Unified Character Animation and Replacement with Holistic Replication](https://huggingface.co/papers/2509.14055) [![GitHub Stars](https://img.shields.io/github/stars/Wan-Video/Wan2.2?style=social)](https://github.com/Wan-Video/Wan2.2) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://humanaigc.github.io/wan-animate/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Wan-AI/Wan2.2-Animate-14B)
-- [StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation](https://huggingface.co/papers/2508.08248) [![GitHub Stars](https://img.shields.io/github/stars/Francis-Rings/StableAvatar?style=social)](https://github.com/Francis-Rings/StableAvatar) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://francis-rings.github.io/StableAvatar/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/FrancisRing/StableAvatar)
 - [FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers](https://huggingface.co/papers/2507.12956) [![GitHub Stars](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-portrait?style=social)](https://github.com/Fantasy-AMAP/fantasy-portrait) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://fantasy-amap.github.io/fantasy-portrait/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/acvlab/FantasyPortrait)
 - [ARIG: Autoregressive Interactive Head Generation for Real-time Conversations](https://huggingface.co/papers/2507.00472) [![GitHub Stars](https://img.shields.io/github/stars/jinyugy21/ARIG?style=social)](https://github.com/jinyugy21/ARIG) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://jinyugy21.github.io/ARIG/)
 - [StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation](http://arxiv.org/abs/2507.15064v1) [![GitHub Stars](https://img.shields.io/github/stars/Francis-Rings/StableAnimator?style=social)](https://github.com/Francis-Rings/StableAnimator) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://francis-rings.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/FrancisRing/StableAnimator)
@@ -3248,6 +3758,120 @@
 
 * **[ICML 2026]** ***WorldCache:*** *Accelerating World Models for Free via Heterogeneous Token Caching*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=MItmwRV0l2) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FofGofx/WorldCache)
 
+* **[NeurIPS 2026]** *Accelerating Rectified Flow Models via Trajectory-Aware Caching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ZFDg4T5AAg)
+
+* **[NeurIPS 2026]** ***AsymHP:*** *Load-Balanced Sparse Attention for Video Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=XyeAckrYOC)
+
+* **[NeurIPS 2026]** ***AtlasVid:*** *Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=i7HwynFyoG)
+
+* **[NeurIPS 2026]** *Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BScHl5MZ8h)
+
+* **[NeurIPS 2026]** *Beyond Distribution Matching: Self-Supervised Representation Forcing for Few-Step Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=E8R0wavtfd)
+
+* **[NeurIPS 2026]** *Bidirectional Sparse Attention for Faster Video Diffusion Training*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Es6mFi84XA)
+
+* **[NeurIPS 2026]** *Cache the Future: Training-Free Self-Revision for Diffusion Transformer Acceleration*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=r6WJ2zUzRI)
+
+* **[NeurIPS 2026]** ***CoDMD:*** *Copula-aware Distribution Matching Distillation for Fast Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=AtixmYM4CB)
+
+* **[NeurIPS 2026]** *Conformal Cache: Reliable Proxy-Discrepancy Caching for Fast Generative Inference*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=j4jK1X7X8M)
+
+* **[NeurIPS 2026]** *Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=yjB0PiXm3S)
+
+* **[NeurIPS 2026]** ***CSLA:*** *Sparse-Linear Attention with Learnable Routing and Quantization-aware Training*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mTASL9d9xh)
+
+* **[NeurIPS 2026]** ***DSAQuant:*** *Denoising-Stage-Aligned Quantization-Aware Training for Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ed33sAgUBp)
+
+* **[NeurIPS 2026]** *Dynamic Video Generation: Shaping Video Generation Across Time and Space*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=XFSYmKLhpv)
+
+* **[NeurIPS 2026]** ***DynamicRad:*** *Content-Adaptive Sparse Attention for Long Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=joj70kq2fc)
+
+* **[NeurIPS 2026]** *Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=CAkj6hGR35)
+
+* **[NeurIPS 2026]** *Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vvkRFRkj8O)
+
+* **[NeurIPS 2026]** ***HyperVAttention:*** *Efficient Sparse Attention with Spatio-Temporal Clustering for Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=NlRG5IrLFS)
+
+* **[NeurIPS 2026]** ***iCATS:*** *Fast Video Generation via Interaction-Aware Sparse Attention and Timestep-Adaptive Sparsity*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=PtTQa5xo9Q)
+
+* **[NeurIPS 2026]** ***IdealCache:*** *Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3jq55sxmcq)
+
+* **[NeurIPS 2026]** ***LIPAR:*** *Latent Inter-Frame Pruning with Attention Recovery*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=rREHWFZNpH)
+
+* **[NeurIPS 2026]** *Map-Guided Caching: A Global Perspective for Efficient Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OIRkHEYjkM)
+
+* **[NeurIPS 2026]** ***MedCache:*** *Training-Free Spatially Aware Caching for Accelerated Medical Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=nJdSfl9uaK)
+
+* **[NeurIPS 2026]** ***MobileWan:*** *Closing the Quality Gap for Mobile Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WL3m8Uy2Gb)
+
+* **[NeurIPS 2026]** ***MonarchRT:*** *Efficient Attention for Real-Time Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uq5wy9i8fB)
+
+* **[NeurIPS 2026]** *Next Forcing: Causal World Modeling with Multi-Chunk Prediction*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=l6yzdsHdX0)
+
+* **[NeurIPS 2026]** *Parameterized Stripe Attention for Efficient Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=rJkErQ4C6o)
+
+* **[NeurIPS 2026]** ***PARE:*** *Pruning and Adaptive Routing for Efficient Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WSWLqEZjZV)
+
+* **[NeurIPS 2026]** ***PISA:*** *Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=eBE11Hq3CA)
+
+* **[NeurIPS 2026]** ***Q-ARVD:*** *Quantizing Autoregressive Video Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RMJiMyWid7)
+
+* **[NeurIPS 2026]** ***RA-CFGCache:*** *From Branch-Level Criteria to Guided-Risk Control under Classifier-Free Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=g6toliY0op)
+
+* **[NeurIPS 2026]** ***SkipSR:*** *Faster Super-Resolution with Token Skipping*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fVcbQE6MZo)
+
+* **[NeurIPS 2026]** *Spectral Progressive Diffusion for Efficient Image and Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ddRju4BSEw)
+
+* **[NeurIPS 2026]** *Tikhonov-Stabilized Bezier Representation Forecasting for Training-free Diffusion Acceleration*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6cYL3DrquA)
+
+* **[NeurIPS 2026]** ***TrackTok:*** *Object-Centric Video Tokenization with Semantically Persistent Tokens*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gLXvwn6vSP)
+
+* **[NeurIPS 2026]** ***TriTD:*** *Tri-Partite Trajectory–Distribution Distillation for Real-Time Autoregressive Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BQaVJhPUAg)
+
+* **[NeurIPS 2026]** *Ultra Flash: Scaling Real-Time Streaming Video Generation to High Resolutions*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Mb3tl1Magj)
+
+* **[NeurIPS 2026]** ***VAR-Q:*** *Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cKR2ed5g34)
+
+* **[NeurIPS 2026]** ***VideoMLA:*** *Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LWMSPE1KSY)
+
 </details>
 
 <details>
@@ -3507,6 +4131,51 @@
 * **[ICML 2026]** ***World-R1:*** *Reinforcing 3D Constraints for Text-to-Video Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lh0I4rB0I5) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aka.ms/world-r1)
 
 * **[ICML 2026]** ***WorldCompass:*** *Reinforcement Learning for Long-Horizon World Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zN8QDhuOHN)
+
+* **[NeurIPS 2026]** ***CaC:*** *Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=K18iJJE8cU)
+
+* **[NeurIPS 2026]** ***Diffusion-DRF:*** *Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=izqmMvuObQ)
+
+* **[NeurIPS 2026]** *Efficient Off-Policy RL for Video Generation via Forward-Consistent Reward Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WyhaKI6IC1)
+
+* **[NeurIPS 2026]** ***Flow-DPPO:*** *Divergence Proximal Policy Optimization for Flow Matching Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=drpFiVnG8v)
+
+* **[NeurIPS 2026]** ***GenRM-Flow:*** *Generators are Process-aware Reward Models in Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dPSEe9I3nw)
+
+* **[NeurIPS 2026]** ***GEOPHYS:*** *The Geometry of Physical Plausibility*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=JxqjhovyBZ)
+
+* **[NeurIPS 2026]** ***HiPhy:*** *Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jJgqTmlOFC)
+
+* **[NeurIPS 2026]** ***PhyMotion:*** *Structured 3D Motion Reward for Physics-Grounded Human Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=szjzOlLpZL)
+
+* **[NeurIPS 2026]** ***Proprio:*** *Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=G2dezZZe2J)
+
+* **[NeurIPS 2026]** ***RAVEN:*** *Real-time Autoregressive Video Extrapolation with Consistency-model GRPO*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2TF93oa5z0)
+
+* **[NeurIPS 2026]** *Recreating Video Arenas via Automated Preference Scoring*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tlDSZnxUGr)
+
+* **[NeurIPS 2026]** ***RoboAlign-R1:*** *Distilled Multimodal Reward Alignment for Robot Video World Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gDww59vSKZ)
+
+* **[NeurIPS 2026]** *Temporal Concentration from Rollout Errors: Implicit Preference Optimization For Text-to-Video Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BPEHExx6a0)
+
+* **[NeurIPS 2026]** *Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=q1K2PuBRd7)
+
+* **[NeurIPS 2026]** *Video Models Can Reason with Verifiable Rewards*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LTemJEibp6)
 
 </details>
 
